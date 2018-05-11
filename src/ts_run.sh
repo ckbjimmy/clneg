@@ -1,0 +1,1 @@
+echo "NP=target <<, /no|without/=neg !> NP >> TOP=t >> S=s\n\nexcise s target\ndelete neg" >> ../data/ts; cd stanford-tregex-2018-02-27/; java edu.stanford.nlp.trees.tregex.tsurgeon.Tsurgeon -treeFile ../data/tmp_tree [../data/ts]

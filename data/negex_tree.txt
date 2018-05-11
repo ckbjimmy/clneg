@@ -1,0 +1,350 @@
+(TOP (S (NP (DT no) (JJ pericardial) (NN effusion)) (VP (VBZ is) (VP (VBN seen))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (NP (NN fever) (, ,) (NNS chills)) (, ,) (CC or) (NP (JJ other) (JJ constitutional) (NNS symptoms)))) (. .)))
+
+(TOP (VP (VBZ denies) (NP (NN headache)) (. .)))
+
+(TOP (NP (NP (NNS denies) (NN shortness)) (PP (IN of) (NP (NP (NN breath)) (, ,) (NP (NN stridor)) (, ,) (CC or) (NP (NN air) (NN hunger)))) (. .)))
+(TOP (NP (NP (DT no) (NN chest)) (NP (NN pain)) (. .)))
+
+(TOP (S (NP (DT no) (JJ abdominal) (NN pain)) (. .)))
+
+(TOP (NP (NP (NP (JJ general) (: -) (NN alert)) (CC and) (NP (NP (JJ oriented) (NNS times)) (NP (CD three)))) (, ,) (PP (IN in) (NP (DT no) (JJ acute) (NN distress))) (. .)))
+
+(TOP (S (NP (DT no) (JJ foreign) (NN body)) (VP (VBD visualized) (PP (IN in) (NP (DT the) (JJ upper) (NN pharynx)))) (. .)))
+
+(TOP (NP (NP (DT no) (NN tongue)) (ADVP (RB elevation)) (. .)))
+
+(TOP (NP (NP (DT no)) (NNS murmurs) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NN ulceration)) (, ,) (NP (NN mass) (CC or) (NN diverticula)))))) (. .)))
+(TOP (VP (VBZ denies) (NP (NP (DT any) (NN shortness)) (PP (IN of) (NP (NN breath) (CC or) (NN diaphoresis)))) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NN chest) (NN pain)) (, ,) (NP (NP (DT no) (NN shortness)) (PP (IN of) (NP (NN breath))))) (, ,) (CC and) (NP (DT no) (JJ abdominal) (NN pain)) (. .)))
+
+(TOP (VP (VBN denied) (NP (DT any) (NNS myalgias) (CC or) (NNS arthralgias)) (. .)))
+
+(TOP (NP (NP (DT no) (NN nausea)) (CC or) (NP (NN vomiting)) (. .)))
+
+(TOP (S (S (ADJP (JJ general))) (: :) (S (PP (IN in) (ADJP (JJ general))) (, ,) (NP (PRP she)) (VP (VBZ is) (PP (IN in) (NP (NP (DT no) (JJ apparent) (NN distress)) (VP (VBG lying) (PP (IN on) (NP (PRP$ her) (NN back))) (PP (IN with) (NP (JJ sullen) (NNS facies)))))))) (. .)))
+
+(TOP (S (NP (JJ fecal) (JJ occult) (NN blood)) (VP (VBD was) (ADJP (JJ negative))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NNS polyps) (CC or) (NN mass))))) (. .)))
+
+(TOP (NP (NP (NN impression)) (: :) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (JJ acute) (JJ cardiopulmonary) (NN disease)))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN concern)) (PP (IN for) (NP (NP (NP (DT a) (JJ possible) (NN aspiration) (NN pneumonia)) (VP (VBN given) (NP (DT the) (NNS patients) (NN vomiting)))) (CC and) (NP (JJ poor) (JJ mental) (NN status)))))) (. .) ('' affirmed)))
+(TOP (NP (NP (CD 13) (NN aspiration) (NN pneumonia)) (SBAR (S (NP (DT the) (NN patient)) (VP (VBD was) (VP (VBN given) (NP (JJ unasyn) (CD 3) (NN g) (NN iv)) (PP (IN for) (NP (JJ possible) (NN aspiration) (NN pneumonia))))))) (. .) ('' affirmed)))
+
+(TOP (S (NP (NP (CD 13) (NN anemia)) (NP (DT the) (NNS patients) (NN h)) (CC and) (NP (NN h))) (VP (VBD were) (PP (IN at) (NP (NN baseline))) (PP (IN without) (NP (NP (DT any) (NN evidence)) (PP (IN of) (NP (JJ significant) (NN anemia)))))) (. .)))
+
+(TOP (S (PP (IN at) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NN discharge))))) (, ,) (NP (DT the) (NN patient)) (VP (VBD had) (NP (NP (NP (NP (DT no) (JJ further) (NNS episodes)) (PP (IN of) (NP (NN coffee)))) (: -) (NP (NN ground) (NN emesis))) (CC or) (NP (NP (DT any) (NNS signs)) (PP (IN of) (NP (JJ active) (NN bleeding)))))) (. .)))
+
+(TOP (S (S (NP (NP (NN chest) (LS x)) (: -) (NP (NP (NN ray)) (PP (IN upon) (NP (NN admission))))) (VP (VBD revealed) (S (NP (DT a) (JJ small)) (VP (TO to) (VP (VB moderate) (VP (VBN left) (NP (JJ basilar) (NN atelectasis) (NN /) (NN effusion)))))))) (CC and) (S (NP (EX there)) (VP (VBD were) (NP (NP (DT no) (NNS findings)) (PP (IN of) (NP (NN pneumonia)))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD showed) (NP (NP (DT no) (JJ clinical) (NNS signs)) (CC or) (NP (NP (NNS symptoms)) (PP (IN of) (NP (NN pneumonia)))))) (. .)))
+
+(TOP (S (NP (NP (NP (NN history)) (PP (IN of) (NP (JJ present) (NN illness)))) (: :) (NP (NN mr))) (. .) (VP (VB *) (CC *) (VP (VB name) (SBAR (S (NP (JJ -LSB-) (JJ aaa) (SYM -RSB-)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ *) (JJ *) (NN age)) (PP (IN -LSB-) (NP (CD 90) (NN +)))) (NP (NP (NP (SYM -RSB-)) (: -) (NP (NN year))) (: -) (NP (NP (JJ old) (NN gentleman)) (PP (IN with) (NP (NP (DT a) (JJ past) (JJ medical) (NN history)) (PP (IN of) (NP (JJ coronary) (NN artery) (NN disease) (, ,) (NN status) (NN post) (NN cabg)))))) (, ,) (CC but) (NP (NP (DT no) (NN history)) (PP (IN of) (NP (NP (VBN known) (JJ congestive) (NN heart) (NN failure)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN admitted) (PP (TO to) (NP (DT the) (NN hospital))) (PP (IN in) (NP (DT the) (JJ last) (CD five))) (PP (TO to) (NP (NP (CD six) (NNS years)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ presents) (NP (NN today)) (PP (IN after) (NP (DT a) (JJ syncopal) (NN episode))))))))))))))))))))))) (. .)))
+
+(TOP (S (NP (PRP he)) (ADVP (RB still)) (VP (VBZ denies) (NP (NP (DT any) (NN chest) (NN pain) (CC or) (NN shortness)) (PP (IN of) (NP (NN breath))))) (. .)))
+
+(TOP (NP (NP (DT no) (JJ focal) (JJ sensory) (CC or) (NN motor) (NNS deficits)) (PP (IN on) (NP (NN history))) (. .)))
+
+(TOP (NP (NP (NNS gi)) (: -) (NP (DT no) (NN nausea) (CC or) (NN vomiting)) (. .)))
+
+(TOP (NP (NP (NN gu)) (: -) (NP (DT no) (NN frequency) (, ,) (NN urgency) (, ,) (CC or) (NN dysuria)) (. .)))
+
+(TOP (NP (NP (JJ ekg) (NN interpretation)) (: -) (S (NP (DT a) (CD 12) (: -) (NN lead) (NN ekg)) (VP (VBZ shows) (NP (NP (JJ normal) (NN sinus) (NN rhythm)) (PP (IN with) (NP (DT no) (JJ acute) (JJ ischemic) (NNS changes)))))) (. .)))
+(TOP (S (NP (DT the) (NN patient)) (VP (VBD was) (RB not) (ADJP (JJ anemic))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD was) (RB not) (VP (VBN lightheaded) (ADVP (IN at) (DT all)))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VP (VBZ admits) (PP (TO to) (NP (JJ mild) (NN nausea))) (PP (IN during) (NP (DT this) (NN episode))) (SBAR (IN while) (S (NP (PRP she)) (VP (VP (VBD was) (PP (IN at) (NP (DT the) (JJ *) (JJ *) (NN institution)))) (CC and) (VP (VBZ denies) (NP (DT any) (JJ back) (NN pain))))))) (, ,) (VP (VBZ denies) (NP (NNS fevers))) (, ,) (VP (VBZ denies) (NP (NP (NN cough)) (, ,) (CC or) (NP (JJ cold) (NNS symptoms))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (NP (NN change)) (PP (IN in) (NP (NN bowel) (CC or) (NN bladder) (NNS habits))))) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NNS wheezes)) (, ,) (NP (NNS rales))) (, ,) (CC or) (NP (NNP rhonchi)) (. .)))
+
+(TOP (S (PP (IN on) (NP (NP (PRP$ my) (NN exam)) (, ,) (NP (NP (PRP her) (NN hyponatremia)) (PP (IN from) (NP (JJ last) (NN week) (NNS appears)))))) (VP (VBP have) (VP (VBN resolved) (, ,) (PP (IN with) (NP (NP (DT a) (NN sodium)) (PP (IN of) (NP (CD 134))))))) (. .)))
+
+(TOP (NP (NP (NN impression)) (: :) (S (NP (DT no) (JJ intracranial) (NN pathology)) (VP (VBN identified))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ has) (NP (DT no) (JJ focal) (NN neurologic) (NNS deficits))) (. .)))
+
+(TOP (NP (NP (JJ physical) (NN exam)) (: :) (NP (NP (JJ general)) (: :) (PP (IN in) (NP (DT no) (JJ acute) (NN distress)))) (. .)))
+(TOP (NP (NP (DT no) (NN sign)) (PP (IN of) (NP (NN infection))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NNS polyps)))) (, ,) (SBAR (IN although) (S (NP (DT the) (NN examination)) (VP (VBD was) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN prep)))))))))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBZ denies) (NP (NP (NN change)) (PP (IN in) (NP (NN sleep))))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBZ denies) (NP (NN worthlessness) (CC or) (NN self) (: -) (NN esteem) (CC or) (NN anhedonia))) (. .)))
+
+(TOP (NP (NP (CD 04) (-RRB- -RRB-) (JJ normal) (NN saline) (NN contrast) (NN injection)) (PP (IN without) (NP (NP (NP (NN evidence)) (PP (IN of) (NP (NN right)))) (SBAR (S (VP (TO to) (VP (VB left) (NP (JJ intracardiac) (NN shunt)))))))) (. .)))
+(TOP (NP (NP (DT no) (NN numbness) (CC or) (NN tingling)) (CC or) (NP (JJ other) (NNS injuries)) (. .)))
+
+(TOP (NP (NP (JJ social) (NN history)) (: :) (S (VP (VBZ denies) (NP (NP (DT any) (NN alcohol)) (, ,) (NP (NN tobacco)) (CC or) (NP (JJ illicit) (NN drug) (NN use))))) (. .)))
+
+(TOP (NP (NP (DT no) (NN lymphadenopathy)) (, ,) (NP (NN thyromegaly) (CC or) (NN jvd)) (. .)))
+
+(TOP (NP (NP (DT no) (NNS murmurs)) (, ,) (NP (NP (NNS gallops)) (, ,) (NP (NNS rubs))) (. .)))
+
+(TOP (NP (NP (NNS extremities)) (: :) (NP (DT no) (NN clubbing) (CC or) (NN cyanosis)) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (JJ pleural) (NN effusion) (CC or) (NN pneumothorax))) (. .)))
+
+(TOP (S (NP (PRP he)) (VP (VBD denied) (NP (DT any) (NN fever))) (. .)))
+
+(TOP (S (NP (PRP he)) (VP (VBD did) (RB not) (VP (VB have) (NP (DT any) (JJ abdominal) (NN pain)))) (. .)))
+
+(TOP (NP (NP (JJ social) (NN history)) (: :) (S (NP (DT the) (NN patient)) (VP (VBZ denies) (NP (NN alcohol) (NN use)))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD had) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (JJ acute) (NN disk) (NN herniation) (CC or) (NN weakness))))) (. .)))
+
+(TOP (S (S (NP (NNS gi) (NNS ros)) (VP (VBZ is) (: -) (ADJP (JJ ve) (PP (IN for) (NP (NP (NN change)) (PP (IN in) (NP (NN bowel) (NN habit)))))))) (, ,) (S (VP (VBG bleeding))) (PRN (-LRB- -LRB-) (ADJP (VBN occult) (CC nor) (JJ overt)) (-RRB- -RRB-)) (, ,) (NP (NP (NN change)) (PP (IN in) (NP (NP (NP (NN weight)) (, ,) (NP (NN anemia)) (CC or) (NP (DT any) (NN ") (NN alarm))) (PP (IN ") (NP (NN symptom) (CC or) (NN sign)))))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NNS polyps)) (, ,) (NP (NN mass) (CC or) (NN diverticula)))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD had) (NP (DT no) (NN fever))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD had) (NP (NP (DT no) (JJ overt) (NNS signs)) (CC or) (NP (NP (NNS symptoms)) (PP (IN of) (NP (NN infection)))))) (. .)))
+
+(TOP (S (S (S (NP (PRP she)) (VP (VBZ denies) (NP (NP (DT any) (JJ abdominal) (NN pain)) (, ,) (NP (NP (DT no) (NN chest) (NN pain) (CC or) (NN shortness)) (PP (IN of) (NP (NN breath))))))) (, ,) (NP (PRP she)) (VP (VBZ has) (VP (VBN had) (NP (DT no) (JJ particular) (JJ sick) (NNS contacts))))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ has) (VP (VBN been) (VP (VBG using) (NP (NP (NN over)) (: -) (NP (NP (DT the) (: -) (NN counter) (NNS remedies)) (PP (IN with) (NP (DT no) (JJ specific) (NN relief))))))))) (. .)))
+
+(TOP (NP (NP (JJ physical) (NN examination)) (: :) (NP (NP (JJ general)) (: -) (PP (IN in) (NP (DT no) (JJ acute) (NN distress)))) (. .)))
+
+(TOP (NP (NP (NN abdomen)) (: -) (NP (NP (JJ soft) (, ,) (JJ nontender) (, ,) (JJ nondistended) (, ,) (JJ positive) (NN bowel) (NNS sounds)) (, ,) (NP (DT no) (NN mass) (CC or) (NN organomegaly))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBD had) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (DT a) (JJ focal) (NN infection))))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (JJ esophageal) (NNS varices)) (CC or) (NP (JJ gastric) (NNS varices)))))) (. .)))
+
+(TOP (S (S (NP (PRP she)) (VP (VBD was) (ADJP (JJ afebrile) (PP (IN with) (NP (JJ stable) (NNS vitals)))))) (: ;) (S (ADVP (RB awake)) (, ,) (VP (VP (VB alert)) (, ,) (CC and) (VP (VBN oriented) (PP (IN in) (NP (DT no) (JJ acute) (NN distress)))))) (. .)))
+(TOP (S (NP (NP (DT no) (JJ echocardiographic) (NNS signs)) (PP (IN of) (NP (NN tamponade)))) (VP (VBP are) (VP (VBN seen))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (DT any) (NNS fevers) (CC or) (NNS chills))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (DT any) (NN dysuria))) (. .)))
+
+(TOP (S (NP (NP (JJ physical) (NN examination)) (: :) (PP (IN on) (NP (NN examination)))) (, ,) (NP (DT the) (NN patient)) (VP (VBZ is) (NP (DT a) (ADJP (RB well)) (: -) (NP (NP (VBN developed) (JJ white) (NN female)) (PP (IN in) (NP (DT no) (JJ acute) (NN distress)))))) (. .)))
+
+(TOP (S (NP (DT the) (NN extremity) (NN examination)) (VP (VBZ shows) (NP (NP (NN +) (CD 2) (NNS pulses)) (CC and) (NP (DT no) (JJ peripheral) (NN edema)))) (. .)))
+
+(TOP (S (S (PP (IN on) (NP (NP (DT *) (JJ *) (NN date)) (PP (IN -LSB-) (NP (JJ sep) (CD 26) (CD 2007) (NN -RSB-))))) (, ,) (NP (PRP$ his) (NN nutrition)) (VP (VBD was) (VP (VBN increased) (PP (TO to) (NP (JJ clear) (NNS liquids))) (, ,) (ADVP (RB then)) (PP (IN on) (NP (NP (DT *) (JJ *) (NN date)) (PP (IN -LSB-) (NP (JJ sep) (CD 27) (CD 2007) (NN -RSB-)))))))) (, ,) (S (NP (DT the) (NN patient)) (VP (VBD had) (NP (NP (NP (DT a) (NN turkey) (NN sandwich)) (PP (IN of) (NP (JJ smashed) (NNS potatoes)))) (PP (IN for) (NP (NN lunch) (CC and) (NNS states)))) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (VBD did) (RB not) (VP (VB have) (NP (JJ abdominal) (NN pain)))) (, ,) (CC and) (VP (VBD wished) (S (VP (TO to) (VP (VB go) (ADVP (NN home))))))))))) (. .)))
+
+(TOP (S (NP (JJ partial) (JJ small) (NN bowel) (NN obstruction)) (, ,) (VP (VBN resolved)) (. .)))
+
+(TOP (S (NP (CD 04)) (VP (-RRB- -RRB-) (NP (NP (DT no) (NNS vegetations)) (VP (VBN seen) (PP (IN by) (NP (DT this) (NN technique)))))) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NN lymphadenopathy)) (, ,) (ADVP (RB thyromegaly))) (, ,) (CC or) (NP (NN jvd)) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NNS murmurs)) (, ,) (NP (NNS gallops))) (, ,) (CC or) (NP (NNS rubs)) (. .)))
+
+(TOP (NP (NP (NNS extremities)) (: :) (NP (NP (DT no) (NN clubbing)) (, ,) (NP (NN cyanosis)) (, ,) (CC or) (NP (NN edema))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD were) (NP (DT no) (JJ ischemic) (NN ekg) (NNS changes)) (PP (IN during) (NP (NN stress)))) (. .)))
+
+(TOP (S (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (JJ negative) (NN stress)) (VP (VBG ekg) (NP (JJ /) (JJ echocardiographic) (NN test)) (PP (IN for) (NP (NN ischemia))) (, ,) (ADVP (RB therefore)))))) (, ,) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ low) (NN suspicion)) (PP (IN for) (NP (JJ significant) (JJ coronary) (NN artery) (NN disease)))))) (. .)))
+
+(TOP (S (NP (PRP he)) (VP (VBZ does) (RB occasionally) (VP (VB have) (NP (NP (JJ loose) (NNS stools)) (, ,) (NP (DT no) (NNS fevers) (CC or) (NNS chills)) (, ,) (NP (DT no) (JJ sick) (NNS contacts)) (, ,) (NP (NP (DT no) (JJ recent) (NN use)) (PP (IN of) (NP (NNS antibiotics))))))) (. .)))
+
+(TOP (NP (NP (DT no) (NNS wheezes)) (, ,) (NP (NNS rales) (CC or) (NN rhonchi)) (. .)))
+
+(TOP (NP (NP (DT no) (NNS masses)) (CC or) (ADVP (RB organomegaly)) (. .)))
+
+(TOP (S (S (NP (PRP he)) (VP (VBD had) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (DT an) (JJ acute) (NN abdomen)))))) (: ;) (S (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (NP (NN cholecystitis)) (, ,) (NP (NN pancreatitis) (CC or) (NN peptic) (NN ulcer) (NN disease)))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD did) (RB not) (VP (VB become) (ADJP (JJ incontinent)))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NN stricture)) (, ,) (NP (NN mucosal) (NN scalloping) (CC or) (NN esophageal) (NN stricture)))))) (. .)))
+
+(TOP (S (NP (PRP i)) (VP (VBP do) (RB not) (VP (VB believe) (SBAR (S (NP (DT the) (NN patient)) (VP (VBZ is) (VP (VBG having) (NP (DT an) (JJ acute) (NN mi)) (PP (IN at) (NP (DT this) (NN time))))))))) (. .)))
+
+(TOP (S (S (NP (PRP$ her) (NN digoxin) (NN level)) (VP (VBZ is) (NP (NP (CD 0) (NNP .) (CD 6)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (ADJP (JJ subtherapeutic))))))))))) (: ;) (S (S (ADVP (RB however)) (, ,) (NP (PRP she)) (VP (VBD was) (RB not) (ADJP (JJ tachycardic)))) (, ,) (CC nor) (VP (VBD was)) (S (NP (PRP she)) (VP (VBD was) (PP (IN in) (NP (JJ atrial) (NN fibrillation)))))) (. .)))
+
+(TOP (S (NP (NN c)) (. .) (NP (DT no) (NN parathyroid) (NNS glands)) (VP (VBP are) (VP (VBN seen))) (. .)))
+
+(TOP (NP (NP (DT no) (NNS findings)) (PP (IN of) (NP (NP (JJ metastatic) (NN disease)) (PP (IN in) (NP (DT the) (NN pelvis))))) (. .)))
+
+(TOP (S (S (NP (PRP$ her) (NN son)) (VP (VBD saw) (NP (PRP her)) (PP (IN on) (NP (NP (DT *) (JJ *) (NN date)) (PP (IN -LSB-) (NP (NN mar) (CD 19) (NN -RSB-))))))) (, ,) (CC and) (S (PP (IN at) (NP (DT that) (NN time))) (, ,) (NP (DT the) (NN patient)) (VP (VBD was) (RB not) (VP (VBN jaundiced) (PP (IN by) (NP (PRP$ his) (NN examination)))))) (. .)))
+
+(TOP (S (NP (PRP he)) (VP (VBZ denies) (NP (NP (DT any) (NN orthopnea)) (, ,) (NP (JJR lower) (NN extremity) (NN edema)) (, ,) (CC or) (NP (NN calf) (NN pain)))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBP are) (NP (NP (DT no) (NNS rales) (CC or) (NNS rhonchi)) (VP (VBN noted) (PP (IN on) (NP (NN examination)))))) (. .)))
+
+(TOP (S (NP (DT no) (JJ pericardial) (NN effusion)) (VP (VBZ is) (VP (VBN seen))) (. .)))
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (NP (NN fever) (, ,) (NNS chills)) (, ,) (CC or) (NP (JJ other) (JJ constitutional) (NNS symptoms)))) (. .)))
+(TOP (VP (VBZ denies) (NP (NN headache)) (. .)))
+
+(TOP (NP (NP (NNS denies)) (NP (JJ posterior) (NN neck) (NN pain)) (. .)))
+
+(TOP (NP (NP (DT no) (NN chest)) (NP (NN pain)) (. .)))
+
+(TOP (S (NP (DT no) (JJ focal) (NN neurologic)) (VP (VBZ deficits)) (. .)))
+
+(TOP (NP (NP (NP (JJ general) (: -) (NN alert)) (CC and) (NP (NP (JJ oriented) (NNS times)) (NP (CD three)))) (, ,) (PP (IN in) (NP (DT no) (JJ acute) (NN distress))) (. .)))
+
+(TOP (NP (NP (DT no) (NN tongue)) (ADVP (RB elevation)) (. .)))
+
+(TOP (NP (NP (NN neck) (NN supple)) (, ,) (NP (DT no) (NN jvd)) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NN ulceration)) (, ,) (NP (NN mass) (CC or) (NN diverticula)))))) (. .)))
+
+(TOP (NP (NP (NN review)) (PP (IN of) (NP (NP (NNS systems)) (: :) (S (S (NP (NP (NN review)) (PP (IN of) (NP (NNS systems)))) (VP (VBD was) (ADJP (JJ negative)))) (CC and) (S (NP (DT the) (NN patient)) (VP (VBZ has) (VP (VBN denied) (NP (DT any) (NNS fevers) (CC or) (NNS chills)))))))) (. .)))
+(TOP (NP (NP (NP (DT no) (NN chest) (NN pain)) (, ,) (NP (NP (DT no) (NN shortness)) (PP (IN of) (NP (NN breath))))) (, ,) (CC and) (NP (DT no) (JJ abdominal) (NN pain)) (. .)))
+
+(TOP (VP (VBN denied) (NP (DT any) (NN constipation) (CC or) (NN diarrhea)) (. .)))
+
+(TOP (VP (VBN denied) (NP (DT any) (NNS headaches)) (. .)))
+
+(TOP (VP (VBN denied) (NP (DT any) (NN drug) (NN use)) (. .)))
+
+(TOP (S (S (ADJP (JJ general))) (: :) (S (PP (IN in) (ADJP (JJ general))) (, ,) (NP (PRP she)) (VP (VBZ is) (PP (IN in) (NP (NP (DT no) (JJ apparent) (NN distress)) (VP (VBG lying) (PP (IN on) (NP (PRP$ her) (NN back))) (PP (IN with) (NP (JJ sullen) (NNS facies)))))))) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NNS murmurs)) (, ,) (NP (NNS rubs))) (, ,) (CC or) (NP (NNS gallops)) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NNS polyps) (CC or) (NN mass))))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (NN concern)) (PP (IN for) (NP (NP (NP (DT a) (JJ possible) (NN aspiration) (NN pneumonia)) (VP (VBN given) (NP (DT the) (NNS patients) (NN vomiting)))) (CC and) (NP (JJ poor) (JJ mental) (NN status)))))) (. .) ('' affirmed)))
+
+(TOP (NP (NP (CD 13) (NN aspiration) (NN pneumonia)) (SBAR (S (NP (DT the) (NN patient)) (VP (VBD was) (VP (VBN given) (NP (JJ unasyn) (CD 3) (NN g) (NN iv)) (PP (IN for) (NP (JJ possible) (NN aspiration) (NN pneumonia))))))) (. .) ('' affirmed)))
+
+(TOP (S (PP (IN at) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NN discharge))))) (, ,) (NP (DT the) (NN patient)) (VP (VBD had) (NP (NP (NP (NP (DT no) (JJ further) (NNS episodes)) (PP (IN of) (NP (NN coffee)))) (: -) (NP (NN ground) (NN emesis))) (CC or) (NP (NP (DT any) (NNS signs)) (PP (IN of) (NP (JJ active) (NN bleeding)))))) (. .)))
+
+(TOP (S (S (NP (NP (NN chest) (LS x)) (: -) (NP (NP (NN ray)) (PP (IN upon) (NP (NN admission))))) (VP (VBD revealed) (S (NP (DT a) (JJ small)) (VP (TO to) (VP (VB moderate) (VP (VBN left) (NP (JJ basilar) (NN atelectasis) (NN /) (NN effusion)))))))) (CC and) (S (NP (EX there)) (VP (VBD were) (NP (NP (DT no) (NNS findings)) (PP (IN of) (NP (NN pneumonia)))))) (. .)))
+
+(TOP (S (PP (IN at) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NN discharge))))) (, ,) (NP (PRP she)) (VP (VBD showed) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (JJ respiratory) (NN distress))))) (. .)))
+
+(TOP (S (NP (NP (NP (NN history)) (PP (IN of) (NP (JJ present) (NN illness)))) (: :) (NP (NN mr))) (. .) (VP (VB *) (CC *) (VP (VB name) (SBAR (S (NP (JJ -LSB-) (JJ aaa) (SYM -RSB-)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ *) (JJ *) (NN age)) (PP (IN -LSB-) (NP (CD 90) (NN +)))) (NP (NP (NP (SYM -RSB-)) (: -) (NP (NN year))) (: -) (NP (NP (JJ old) (NN gentleman)) (PP (IN with) (NP (NP (DT a) (JJ past) (JJ medical) (NN history)) (PP (IN of) (NP (JJ coronary) (NN artery) (NN disease) (, ,) (NN status) (NN post) (NN cabg)))))) (, ,) (CC but) (NP (NP (DT no) (NN history)) (PP (IN of) (NP (NP (VBN known) (JJ congestive) (NN heart) (NN failure)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ has) (RB not) (VP (VBN been) (VP (VBN admitted) (PP (TO to) (NP (DT the) (NN hospital))) (PP (IN in) (NP (DT the) (JJ last) (CD five))) (PP (TO to) (NP (NP (CD six) (NNS years)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ presents) (NP (NN today)) (PP (IN after) (NP (DT a) (JJ syncopal) (NN episode))))))))))))))))))))))) (. .)))
+
+(TOP (S (NP (PRP he)) (VP (VBZ denies) (NP (NP (DT any) (NN antecedent) (NNS palpitations)) (, ,) (NP (NP (NN shortness)) (PP (IN of) (NP (NP (NN breath)) (, ,) (NP (NN chest) (NN pain)) (, ,) (NP (NN headache)) (, ,) (CC or) (NP (NN lightheadedness))))))) (. .)))
+
+(TOP (S (NP (PRP he)) (ADVP (RB still)) (VP (VBZ denies) (NP (NP (DT any) (NN chest) (NN pain) (CC or) (NN shortness)) (PP (IN of) (NP (NN breath))))) (. .)))
+
+(TOP (NP (NP (NNS gi)) (: -) (NP (DT no) (NN nausea) (CC or) (NN vomiting)) (. .)))
+
+(TOP (NP (NP (NN gu)) (: -) (NP (DT no) (NN frequency) (, ,) (NN urgency) (, ,) (CC or) (NN dysuria)) (. .)))
+
+(TOP (NP (NP (NP (NN neurologic)) (: -) (NP (DT no) (NN numbness)) (, ,) (NP (NN tingling))) (, ,) (CC or) (NP (NN weakness)) (. .)))
+
+(TOP (NP (NP (NP (NN neck)) (: -) (NP (NN supple) (NN no) (NN jvd)) (, ,) (NP (NN lymph) (NN node))) (, ,) (CC or) (NP (JJ cervical) (NN lymphadenopathy)) (. .)))
+
+(TOP (NP (NP (NP (JJ cardiovascular)) (: -) (NP (JJ regular) (NN rate) (CC and) (NN rhythm))) (, ,) (NP (DT no) (NNS murmurs)) (, ,) (NP (NNS rubs)) (, ,) (NP (NNS gallops)) (. .)))
+
+(TOP (NP (NP (JJ ekg) (NN interpretation)) (: -) (S (NP (DT a) (CD 12) (: -) (NN lead) (NN ekg)) (VP (VBZ shows) (NP (NP (JJ normal) (NN sinus) (NN rhythm)) (PP (IN with) (NP (DT no) (JJ acute) (JJ ischemic) (NNS changes)))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VP (VBZ denies) (NP (DT any) (NN chest) (NN pain))) (CC and) (VP (VBZ denies) (NP (JJ difficulty) (NN breathing)))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VP (VBZ admits) (PP (TO to) (NP (JJ mild) (NN nausea))) (PP (IN during) (NP (DT this) (NN episode))) (SBAR (IN while) (S (NP (PRP she)) (VP (VP (VBD was) (PP (IN at) (NP (DT the) (JJ *) (JJ *) (NN institution)))) (CC and) (VP (VBZ denies) (NP (DT any) (JJ back) (NN pain))))))) (, ,) (VP (VBZ denies) (NP (NNS fevers))) (, ,) (VP (VBZ denies) (NP (NP (NN cough)) (, ,) (CC or) (NP (JJ cold) (NNS symptoms))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (NP (NN change)) (PP (IN in) (NP (NN bowel) (CC or) (NN bladder) (NNS habits))))) (. .)))
+
+(TOP (NP (NP (NNS denies) (NN alcohol)) (CC or) (NP (JJ other) (NN drug) (NN use)) (. .)))
+
+(TOP (NP (NP (NN general)) (: :) (S (NP (PRP she)) (VP (VBZ is) (RB not) (PP (IN in) (NP (DT any) (JJ acute) (NN distress))))) (. .)))
+
+(TOP (NP (NP (NNS findings)) (: :) (S (NP (DT no) (JJ intracranial) (NN hemorrhage)) (VP (MD can) (VP (VB be) (VP (VBN identified))))) (. .)))
+
+(TOP (NP (NP (JJ physical) (NN exam)) (: :) (NP (NP (JJ general)) (: :) (PP (IN in) (NP (DT no) (JJ acute) (NN distress)))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBZ has) (NP (NP (JJ normal) (NN range)) (PP (IN of) (NP (NP (NP (NN motion)) (PP (IN in) (NP (PRP$ her) (NN hand)))) (PP (IN with) (NP (JJ good) (NN capillary) (NN refill))))) (, ,) (CC and) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (NN infection)))))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NNS polyps)))) (, ,) (SBAR (IN although) (S (NP (DT the) (NN examination)) (VP (VBD was) (VP (VBN limited) (PP (IN by) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (DT the) (NN prep)))))))))) (. .)))
+
+(TOP (NP (NP (JJ principal) (NNS procedures) (CC and) (NNS tests)) (: :) (NP (NP (NN doppler)) (PP (IN of) (NP (NP (DT the) (JJR lower) (NNS extremities)) (ADJP (JJ negative) (PP (IN for) (NP (NN dvt))))))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBZ denies) (NP (NN worthlessness) (CC or) (NN self) (: -) (NN esteem) (CC or) (NN anhedonia))) (. .)))
+
+(TOP (S (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NNS delusions) (CC or) (NNS hallucinations)))) (CC but) (S (VP (VBD had) (NP (NP (JJ bizarre) (NN behavior)) (SBAR (IN that) (S (NP (NN therapist)) (VP (VBD felt) (S (VP (TO to) (VP (VB be) (NP (PRP$ her) (JJ associated) (NN state))))))))))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBD was) (RB not) (ADJP (JJ lethargic) (CC or) (JJ agitated)) (PP (IN during) (NP (DT the) (NN hospitalization)))) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NNS delusions)) (, ,) (NP (NN lethargy))) (, ,) (CC or) (NP (NNS hallucinations)) (. .)))
+
+(TOP (S (NP (DT no) (NN pain)) (VP (VP (JJ proximal) (PP (TO to) (NP (PRP$ his) (NN hand)))) (CC and) (VP (ADVP (RB otherwise)) (VBZ has) (NP (DT no) (JJ other) (NNS injuries)))) (. .)))
+
+(TOP (NP (NP (JJ social) (NN history)) (: :) (S (VP (VBZ denies) (NP (NP (DT any) (NN alcohol)) (, ,) (NP (NN tobacco)) (CC or) (NP (JJ illicit) (NN drug) (NN use))))) (. .)))
+
+(TOP (NP (NP (DT no) (NN injury) (NN proximal)) (PP (TO to) (NP (PRP$ his) (NN wrist))) (. .)))
+
+(TOP (S (NP (DT the) (NN patient)) (VP (VBD denied) (NP (NP (DT any) (NN headache)) (, ,) (NP (NN neck) (NN pain)) (, ,) (NP (NN weakness)) (, ,) (NP (NN numbness) (CC or) (NNS paraesthesias)))) (. .)))
+
+(TOP (S (NP (PRP$ his) (NN nausea) (CC and) (NN vomiting)) (VP (VBN resolved)) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (DT any) (NN incontinence))) (. .)))
+
+(TOP (NP (NP (PRP no)) (NP (NN weakness)) (. .)))
+
+(TOP (S (S (NP (NNS gi) (NNS ros)) (VP (VBZ is) (: -) (ADJP (JJ ve) (PP (IN for) (NP (NP (NN change)) (PP (IN in) (NP (NN bowel) (NN habit)))))))) (, ,) (S (VP (VBG bleeding))) (PRN (-LRB- -LRB-) (ADJP (VBN occult) (CC nor) (JJ overt)) (-RRB- -RRB-)) (, ,) (NP (NP (NN change)) (PP (IN in) (NP (NP (NP (NN weight)) (, ,) (NP (NN anemia)) (CC or) (NP (DT any) (NN ") (NN alarm))) (PP (IN ") (NP (NN symptom) (CC or) (NN sign)))))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NNS polyps)) (, ,) (NP (NN mass) (CC or) (NN diverticula)))))) (. .)))
+
+(TOP (S (S (NP (DT this)) (ADVP (RB gradually)) (VP (VBN cleared))) (, ,) (CC and) (S (NP (EX there)) (VP (VBD were) (NP (NP (DT no) (JJ further) (NNS signs)) (CC or) (NP (NP (NNS symptoms)) (PP (IN of) (NP (NN infection))))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD had) (NP (DT no) (NNS chills))) (. .)))
+
+(TOP (S (S (S (NP (PRP she)) (VP (VBZ denies) (NP (NP (DT any) (JJ abdominal) (NN pain)) (, ,) (NP (NP (DT no) (NN chest) (NN pain) (CC or) (NN shortness)) (PP (IN of) (NP (NN breath))))))) (, ,) (NP (PRP she)) (VP (VBZ has) (VP (VBN had) (NP (DT no) (JJ particular) (JJ sick) (NNS contacts))))) (, ,) (CC and) (S (NP (PRP she)) (VP (VBZ has) (VP (VBN been) (VP (VBG using) (NP (NP (NN over)) (: -) (NP (NP (DT the) (: -) (NN counter) (NNS remedies)) (PP (IN with) (NP (DT no) (JJ specific) (NN relief))))))))) (. .)))
+
+(TOP (NP (NP (NP (NN neck) (: -) (NN supple)) (, ,) (NP (DT no) (NN lymphadenopathy)) (, ,) (ADVP (RB thyromegaly))) (, ,) (CC or) (NP (NN jvd)) (. .)))
+
+(TOP (NP (NP (NP (NN heart)) (: -) (NP (JJ regular) (NN rate) (CC and) (NN rhythm)) (, ,) (NP (DT no) (NNS murmurs)) (, ,) (NP (NNS gallops))) (, ,) (CC or) (NP (NNS rubs)) (. .)))
+
+(TOP (NP (NP (NN abdomen)) (: -) (NP (NP (JJ soft) (, ,) (JJ nontender) (, ,) (JJ nondistended) (, ,) (JJ positive) (NN bowel) (NNS sounds)) (, ,) (NP (DT no) (NN mass) (CC or) (NN organomegaly))) (. .)))
+
+(TOP (NP (NP (NP (NNS extremities)) (: -) (NP (DT no) (NN clubbing)) (, ,) (NP (NN cyanosis))) (, ,) (CC or) (NP (NN edema)) (. .)))
+
+(TOP (S (S (NP (PRP she)) (VP (VBD was) (ADJP (JJ afebrile) (PP (IN with) (NP (JJ stable) (NNS vitals)))))) (: ;) (S (ADVP (RB awake)) (, ,) (VP (VP (VB alert)) (, ,) (CC and) (VP (VBN oriented) (PP (IN in) (NP (DT no) (JJ acute) (NN distress)))))) (. .)))
+
+(TOP (NP (NP (CD 03)) (PP (IN -RRB-) (NP (NN none) (JJ mitral) (NN regurgitation))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (DT any) (NNS fevers) (CC or) (NNS chills))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBZ denies) (NP (DT any) (NN dysuria))) (. .)))
+
+(TOP (S (NP (DT the) (NN extremity) (NN examination)) (VP (VBZ shows) (NP (NP (NN +) (CD 2) (NNS pulses)) (CC and) (NP (DT no) (JJ peripheral) (NN edema)))) (. .)))
+
+(TOP (S (S (PP (IN on) (NP (NP (DT *) (JJ *) (NN date)) (PP (IN -LSB-) (NP (JJ sep) (CD 26) (CD 2007) (NN -RSB-))))) (, ,) (NP (PRP$ his) (NN nutrition)) (VP (VBD was) (VP (VBN increased) (PP (TO to) (NP (JJ clear) (NNS liquids))) (, ,) (ADVP (RB then)) (PP (IN on) (NP (NP (DT *) (JJ *) (NN date)) (PP (IN -LSB-) (NP (JJ sep) (CD 27) (CD 2007) (NN -RSB-)))))))) (, ,) (S (NP (DT the) (NN patient)) (VP (VBD had) (NP (NP (NP (DT a) (NN turkey) (NN sandwich)) (PP (IN of) (NP (JJ smashed) (NNS potatoes)))) (PP (IN for) (NP (NN lunch) (CC and) (NNS states)))) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (VBD did) (RB not) (VP (VB have) (NP (JJ abdominal) (NN pain)))) (, ,) (CC and) (VP (VBD wished) (S (VP (TO to) (VP (VB go) (ADVP (NN home))))))))))) (. .)))
+
+(TOP (S (NP (CD 04)) (VP (-RRB- -RRB-) (NP (NP (DT no) (NNS vegetations)) (VP (VBN seen) (PP (IN by) (NP (DT this) (NN technique)))))) (. .)))
+
+(TOP (S (S (ADJP (JJ general))) (: :) (S (NP (PRP he)) (VP (VBZ is) (ADJP (RB awake) (, ,) (JJ alert)) (, ,) (PP (IN in) (NP (DT no) (JJ acute) (NN distress))))) (. .)))
+
+(TOP (S (NP (NP (NP (NN history)) (PP (IN of) (NP (JJ present) (NN illness)))) (: :) (NP (NN mr))) (. .) (VP (VB *) (CC *) (VP (VB name) (SBAR (S (NP (JJ -LSB-) (JJ aaa) (SYM -RSB-)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ *) (JJ *) (NN age) (NN -LSB-)) (PP (IN in) (NP (CD 50s) (SYM -RSB-) (: -) (NN year)))) (: -) (NP (NP (JJ old) (JJ african)) (: -) (NP (NP (JJ american) (NN male)) (PP (IN with) (NP (NP (DT no) (NN history)) (PP (IN of) (NP (NP (JJ coronary) (NN artery) (NN disease)) (SBAR (WHNP (WP who)) (S (VP (VBZ presents) (PP (IN with) (NP (NP (DT a) (CD one)) (: -) (NP (NP (NP (NN day) (NN history)) (PP (IN of) (NP (JJ left)))) (: -) (NP (NP (JJ sided) (JJ substernal) (NN chest) (NN pressure) (NN radiating)) (PP (TO to) (NP (PRP$ his) (JJ left) (NN shoulder)))))))))))))))))))))) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NN lymphadenopathy)) (, ,) (ADVP (RB thyromegaly))) (, ,) (CC or) (NP (NN jvd)) (. .)))
+
+(TOP (NP (NP (NP (DT no) (NNS murmurs)) (, ,) (NP (NNS gallops))) (, ,) (CC or) (NP (NNS rubs)) (. .)))
+
+(TOP (NP (NP (NNS extremities)) (: :) (NP (NP (DT no) (NN clubbing)) (, ,) (NP (NN cyanosis)) (, ,) (CC or) (NP (NN edema))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD were) (NP (DT no) (JJ ischemic) (NN ekg) (NNS changes)) (PP (IN during) (NP (NN stress)))) (. .)))
+
+(TOP (S (NP (CD 09)) (-RRB- -RRB-) (NP (EX there)) (VP (VBD were) (NP (NP (DT no) (NN stress)) (VP (VBN induced) (NP (NP (NN chest) (NN pain)) (, ,) (NP (JJ ischemic) (NN ekg) (NNS changes)) (CC or) (NP (NN wall) (NN motion) (NNS abnormalities))) (PP (IN at) (NP (NP (DT a) (ADJP (RB relatively) (JJ low)) (NN level)) (PP (IN of) (NP (NN stress)))))))) (. .)))
+
+(TOP (S (NP (PRP$ his) (NN pain)) (VP (VBZ is) (VP (VBN associated) (PP (IN with) (NP (NP (NN nausea)) (, ,) (NP (DT no) (NN vomiting)))))) (. .)))
+
+(TOP (NP (NP (DT no) (NNS wheezes)) (, ,) (NP (NNS rales) (CC or) (NN rhonchi)) (. .)))
+
+(TOP (NP (NP (DT no) (NNS masses)) (CC or) (ADVP (RB organomegaly)) (. .)))
+
+(TOP (S (S (NP (PRP he)) (VP (VBD had) (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (DT an) (JJ acute) (NN abdomen)))))) (: ;) (S (NP (NP (DT no) (NNS signs)) (PP (IN of) (NP (NP (NN cholecystitis)) (, ,) (NP (NN pancreatitis) (CC or) (NN peptic) (NN ulcer) (NN disease)))))) (. .)))
+
+(TOP (S (NP (PRP she)) (VP (VBD did) (RB not) (VP (VB become) (ADJP (JJ incontinent)))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBD was) (NP (NP (DT no) (NN evidence)) (PP (IN of) (NP (NP (NN stricture)) (, ,) (NP (NN mucosal) (NN scalloping) (CC or) (NN esophageal) (NN stricture)))))) (. .)))
+
+(TOP (S (NP (PRP i)) (VP (VBP do) (RB not) (VP (VB believe) (SBAR (S (NP (DT the) (NN patient)) (VP (VBZ is) (VP (VBG having) (NP (DT an) (JJ acute) (NN mi)) (PP (IN at) (NP (DT this) (NN time))))))))) (. .)))
+
+(TOP (S (S (NP (PRP$ her) (NN digoxin) (NN level)) (VP (VBZ is) (NP (NP (CD 0) (NNP .) (CD 6)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ appears) (S (VP (TO to) (VP (VB be) (ADJP (JJ subtherapeutic))))))))))) (: ;) (S (S (ADVP (RB however)) (, ,) (NP (PRP she)) (VP (VBD was) (RB not) (ADJP (JJ tachycardic)))) (, ,) (CC nor) (VP (VBD was)) (S (NP (PRP she)) (VP (VBD was) (PP (IN in) (NP (JJ atrial) (NN fibrillation)))))) (. .)))
+
+(TOP (S (NP (NN c)) (. .) (NP (DT no) (NN parathyroid) (NNS glands)) (VP (VBP are) (VP (VBN seen))) (. .)))
+
+(TOP (NP (NP (DT no) (NNS findings)) (PP (IN of) (NP (NP (JJ metastatic) (NN disease)) (PP (IN in) (NP (DT the) (NN pelvis))))) (. .)))
+
+(TOP (S (S (NP (PRP$ her) (NN son)) (VP (VBD saw) (NP (PRP her)) (PP (IN on) (NP (NP (DT *) (JJ *) (NN date)) (PP (IN -LSB-) (NP (NN mar) (CD 19) (NN -RSB-))))))) (, ,) (CC and) (S (PP (IN at) (NP (DT that) (NN time))) (, ,) (NP (DT the) (NN patient)) (VP (VBD was) (RB not) (VP (VBN jaundiced) (PP (IN by) (NP (PRP$ his) (NN examination)))))) (. .)))
+
+(TOP (S (NP (PRP he)) (VP (VBZ denies) (NP (NP (DT any) (NN orthopnea)) (, ,) (NP (JJR lower) (NN extremity) (NN edema)) (, ,) (CC or) (NP (NN calf) (NN pain)))) (. .)))
+
+(TOP (S (NP (EX there)) (VP (VBP are) (NP (NP (DT no) (NNS rales) (CC or) (NNS rhonchi)) (VP (VBN noted) (PP (IN on) (NP (NN examination)))))) (. .)))
+

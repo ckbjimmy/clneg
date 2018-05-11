@@ -1,0 +1,185 @@
+ITEM	CATEGORY	EN (SV) ACTION	NEG	FIRST_TOKEN	FIRST_POS	LAST_TOKEN	LAST_POS
+adequate to rule the patient out against	definiteNegatedExistence	forward	PREN	adequate	NN	against	IN
+are ruled out	definiteNegatedExistence	backward	POST	are	VBP	out	IN
+being ruled out	definiteNegatedExistence	backward	POST	being	VBG	out	IN
+can be ruled out	definiteNegatedExistence	backward	POST	can	MD	out	IN
+can rule him out	definiteNegatedExistence	forward	PREN	can	MD	out	IN
+can rule him out against	definiteNegatedExistence	forward	PREN	can	MD	against	IN
+can rule out	definiteNegatedExistence	forward	PREN	can	MD	out	IN
+can rule out against	definiteNegatedExistence	forward	PREN	can	MD	against	IN
+can rule the patient out against	definiteNegatedExistence	forward	PREN	can	MD	against	IN
+cannot	definiteNegatedExistence	forward	PREN	cannot	MD	cannot	MD
+cleared of	definiteNegatedExistence	forward	PREN	cleared	VBN	of	IN
+declined	definiteNegatedExistence	forward	PREN	declined	VBD	declined	VBD
+declines	definiteNegatedExistence	forward	PREN	declines	NNS	declines	NNS
+denied	definiteNegatedExistence	forward	PREN	denied	VBD	denied	VBD
+denies	definiteNegatedExistence	forward	PREN	denies	NNS	denies	NNS
+deny	definiteNegatedExistence	forward	PREN	deny	NN	deny	NN
+did rule her out	definiteNegatedExistence	forward	PREN	did	VBD	out	IN
+did rule her out against	definiteNegatedExistence	forward	PREN	did	VBD	against	IN
+did rule her out for	definiteNegatedExistence	forward	PREN	did	VBD	for	IN
+did rule him out	definiteNegatedExistence	forward	PREN	did	VBD	out	IN
+did rule him out against	definiteNegatedExistence	forward	PREN	did	VBD	against	IN
+did rule him out for	definiteNegatedExistence	forward	PREN	did	VBD	for	IN
+did rule out	definiteNegatedExistence	forward	PREN	did	VBD	out	IN
+did rule out against	definiteNegatedExistence	forward	PREN	did	VBD	against	IN
+did rule out for	definiteNegatedExistence	forward	PREN	did	VBD	for	IN
+did rule the patient out	definiteNegatedExistence	forward	PREN	did	VBD	out	IN
+did rule the patient out against	definiteNegatedExistence	forward	PREN	did	VBD	against	IN
+did rule the patient out for	definiteNegatedExistence	forward	PREN	did	VBD	for	IN
+excluded	definiteNegatedExistence	bidirectional	POST	excluded	VBN	excluded	VBN
+free	definiteNegatedExistence	bidirectional	POST	free	JJ	free	JJ
+free of	definiteNegatedExistence	forward	PREN	free	JJ	of	IN
+has been ruled out	definiteNegatedExistence	backward	POST	has	VBZ	out	IN
+have been ruled out	definiteNegatedExistence	backward	POST	have	VB	out	IN
+is absent	definiteNegatedExistence	backward	POST	is	VBZ	absent	NN
+is negative	definiteNegatedExistence	backward	POST	is	VBZ	negative	JJ
+is ruled out	definiteNegatedExistence	backward	POST	is	VBZ	out	IN
+negative examination for	definiteNegatedExistence	forward	PREN	negative	JJ	for	IN
+negative for	definiteNegatedExistence	forward	PREN	negative	JJ	for	IN
+neither	definiteNegatedExistence	forward	PREN	neither	DT	neither	DT
+never developed	definiteNegatedExistence	forward	PREN	never	RB	developed	NN
+never had	definiteNegatedExistence	forward	PREN	never	RB	had	VBD
+no	definiteNegatedExistence	forward	PREN	no	DT	no	DT
+no evidence	definiteNegatedExistence	forward	PREN	no	DT	evidence	NN
+no new	definiteNegatedExistence	forward	PREN	no	DT	new	JJ
+no other	definiteNegatedExistence	forward	PREN	no	DT	other	JJ
+no support for	definiteNegatedExistence	forward	PREN	no	DT	for	IN
+no suspicion of	definiteNegatedExistence	forward	PREN	no	DT	of	IN
+not	definiteNegatedExistence	forward	PREN	not	RB	not	RB
+not exhibit	definiteNegatedExistence	forward	PREN	not	RB	exhibit	NN
+not had	definiteNegatedExistence	forward	PREN	not	RB	had	VBD
+not have	definiteNegatedExistence	forward	PREN	not	RB	have	VB
+not seen	definiteNegatedExistence	backward	POST	not	RB	seen	VBN
+nothing	definiteNegatedExistence	forward	PREN	nothing	NN	nothing	NN
+patient was not	definiteNegatedExistence	forward	PREN	patient	NN	not	RB
+reject	definiteNegatedExistence	forward	PREN	reject	NN	reject	NN
+rejected	definiteNegatedExistence	forward	PREN	rejected	VBN	rejected	VBN
+resolved	definiteNegatedExistence	backward	POST	resolved	VBN	resolved	VBN
+ruled her out	definiteNegatedExistence	forward	PREN	ruled	VBN	out	IN
+ruled her out against	definiteNegatedExistence	forward	PREN	ruled	VBN	against	IN
+ruled her out for	definiteNegatedExistence	forward	PREN	ruled	VBN	for	IN
+ruled him out	definiteNegatedExistence	forward	PREN	ruled	VBN	out	IN
+ruled him out against	definiteNegatedExistence	forward	PREN	ruled	VBN	against	IN
+ruled him out for	definiteNegatedExistence	forward	PREN	ruled	VBN	for	IN
+ruled out	definiteNegatedExistence	forward	PREN	ruled	VBN	out	IN
+ruled out against	definiteNegatedExistence	forward	PREN	ruled	VBN	against	IN
+ruled out for	definiteNegatedExistence	forward	PREN	ruled	VBN	for	IN
+ruled the patient out	definiteNegatedExistence	forward	PREN	ruled	VBN	out	IN
+ruled the patient out against	definiteNegatedExistence	forward	PREN	ruled	VBN	against	IN
+ruled the patient out for	definiteNegatedExistence	forward	PREN	ruled	VBN	for	IN
+rules her out	definiteNegatedExistence	forward	PREN	rules	NNS	out	IN
+rules her out for	definiteNegatedExistence	forward	PREN	rules	NNS	for	IN
+rules him out	definiteNegatedExistence	forward	PREN	rules	NNS	out	IN
+rules him out for	definiteNegatedExistence	forward	PREN	rules	NNS	for	IN
+rules out	definiteNegatedExistence	forward	PREN	rules	NNS	out	IN
+rules out for	definiteNegatedExistence	forward	PREN	rules	NNS	for	IN
+rules the patient out	definiteNegatedExistence	forward	PREN	rules	NNS	out	IN
+rules the patient out for	definiteNegatedExistence	forward	PREN	rules	NNS	for	IN
+was ruled out	definiteNegatedExistence	backward	POST	was	VBD	out	IN
+with no	definiteNegatedExistence	forward	PREN	with	IN	no	DT
+without	definiteNegatedExistence	forward	PREN	without	IN	without	IN
+absence of	probableNegatedExistence	forward	PREP	absence	NN	of	IN
+adequate to rule her out	probableNegatedExistence	forward	PREP	adequate	NN	out	IN
+adequate to rule her out for	probableNegatedExistence	forward	PREP	adequate	NN	for	IN
+adequate to rule him out	probableNegatedExistence	forward	PREP	adequate	NN	out	IN
+adequate to rule him out for	probableNegatedExistence	forward	PREP	adequate	NN	for	IN
+adequate to rule out	probableNegatedExistence	forward	PREP	adequate	NN	out	IN
+adequate to rule out for	probableNegatedExistence	forward	PREP	adequate	NN	for	IN
+adequate to rule the patient out	probableNegatedExistence	forward	PREP	adequate	NN	out	IN
+adequate to rule the patient out for	probableNegatedExistence	forward	PREP	adequate	NN	for	IN
+can rule her out	probableNegatedExistence	forward	PREP	can	MD	out	IN
+can rule her out against	probableNegatedExistence	forward	PREP	can	MD	against	IN
+can rule her out for	probableNegatedExistence	forward	PREP	can	MD	for	IN
+can rule him out for	probableNegatedExistence	forward	PREP	can	MD	for	IN
+can rule out for	probableNegatedExistence	forward	PREP	can	MD	for	IN
+can rule the patient out	probableNegatedExistence	forward	PREP	can	MD	out	IN
+can rule the patient out for	probableNegatedExistence	forward	PREP	can	MD	for	IN
+cannot be excluded	probableNegatedExistence	backward	POSP	cannot	MD	excluded	VBN
+cannot exclude	probableNegatedExistence	forward	PREP	cannot	MD	exclude	NN
+cannot see	probableNegatedExistence	forward	PREP	cannot	MD	see	VB
+could be ruled out	probableNegatedExistence	bidirectional	POSP	could	MD	out	IN
+could not exclude	probableNegatedExistence	forward	PREP	could	MD	exclude	NN
+denying	probableNegatedExistence	forward	PREP	denying	VBG	denying	VBG
+do not think these findings speak for	probableNegatedExistence	forward	PREP	do	VB	for	IN
+doubt	probableNegatedExistence	forward	PREP	doubt	NN	doubt	NN
+doubtful	probableNegatedExistence	bidirectional	POSP	doubtful	NN	doubtful	NN
+exclude	probableNegatedExistence	forward	PREP	exclude	NN	exclude	NN
+fails to reveal	probableNegatedExistence	forward	PREP	fails	NNS	reveal	NN
+is not excluded	probableNegatedExistence	backward	POSP	is	VBZ	excluded	VBN
+is not indicated	probableNegatedExistence	backward	POSP	is	VBZ	indicated	VBN
+low probability	probableNegatedExistence	forward	PREP	low	JJ	probability	NN
+no abnormal	probableNegatedExistence	forward	PREP	no	DT	abnormal	JJ
+no cause of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no complaints of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no definite	probableNegatedExistence	forward	PREP	no	DT	definite	NN
+no demonstrated	probableNegatedExistence	forward	PREP	no	DT	demonstrated	VBN
+no findings of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no findings to indicate	probableNegatedExistence	forward	PREP	no	DT	indicate	NN
+no grounds for	probableNegatedExistence	forward	PREP	no	DT	for	IN
+no indication of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no obvious	probableNegatedExistence	forward	PREP	no	DT	obvious	JJ
+no sign of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no significant	probableNegatedExistence	forward	PREP	no	DT	significant	JJ
+no signs of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no suggestion of	probableNegatedExistence	forward	PREP	no	DT	of	IN
+no sure	probableNegatedExistence	forward	PREP	no	DT	sure	NN
+not a sure	probableNegatedExistence	forward	PREP	not	RB	sure	NN
+not appreciate	probableNegatedExistence	forward	PREP	not	RB	appreciate	NN
+not associated with	probableNegatedExistence	forward	PREP	not	RB	with	IN
+not complain of	probableNegatedExistence	forward	PREP	not	RB	of	IN
+not demonstrate	probableNegatedExistence	forward	PREP	not	RB	demonstrate	NN
+not feel	probableNegatedExistence	forward	PREP	not	RB	feel	NN
+not know of	probableNegatedExistence	forward	PREP	not	RB	of	IN
+not known to have	probableNegatedExistence	forward	PREP	not	RB	have	VB
+not reveal	probableNegatedExistence	forward	PREP	not	RB	reveal	NN
+not ruled out	probableNegatedExistence	backward	POSP	not	RB	out	IN
+not see	probableNegatedExistence	forward	PREP	not	RB	see	VB
+not think	probableNegatedExistence	forward	PREP	not	RB	think	NN
+not to be	probableNegatedExistence	forward	PREP	not	RB	be	VB
+rather than	probableNegatedExistence	forward	PREP	rather	RB	than	IN
+sufficient to rule her out	probableNegatedExistence	forward	PREP	sufficient	NN	out	IN
+sufficient to rule her out against	probableNegatedExistence	forward	PREP	sufficient	NN	against	IN
+sufficient to rule her out for	probableNegatedExistence	forward	PREP	sufficient	NN	for	IN
+sufficient to rule him out	probableNegatedExistence	forward	PREP	sufficient	NN	out	IN
+sufficient to rule him out against	probableNegatedExistence	forward	PREP	sufficient	NN	against	IN
+sufficient to rule him out for	probableNegatedExistence	forward	PREP	sufficient	NN	for	IN
+sufficient to rule out	probableNegatedExistence	forward	PREP	sufficient	NN	out	IN
+sufficient to rule out against	probableNegatedExistence	forward	PREP	sufficient	NN	against	IN
+sufficient to rule out for	probableNegatedExistence	forward	PREP	sufficient	NN	for	IN
+sufficient to rule the patient out	probableNegatedExistence	forward	PREP	sufficient	NN	out	IN
+sufficient to rule the patient out against	probableNegatedExistence	forward	PREP	sufficient	NN	against	IN
+sufficient to rule the patient out for	probableNegatedExistence	forward	PREP	sufficient	NN	for	IN
+test for	probableNegatedExistence	forward	PREP	test	NN	for	IN
+to exclude	probableNegatedExistence	forward	PREP	to	TO	exclude	NN
+unable to adequately assess	probableNegatedExistence	forward	PREP	unable	JJ	assess	NN
+unable to assess	probableNegatedExistence	forward	PREP	unable	JJ	assess	NN
+unlikely	probableNegatedExistence	backward	POSP	unlikely	JJ	unlikely	JJ
+unremarkable for	probableNegatedExistence	forward	PREP	unremarkable	JJ	for	IN
+very little that speaks for	probableNegatedExistence	forward	PREP	very	RB	for	IN
+without indication of	probableNegatedExistence	forward	PREP	without	IN	of	IN
+without sign of	probableNegatedExistence	forward	PREP	without	IN	of	IN
+gram negative	pseudoNegation	forward	PSEU	gram	NN	negative	JJ
+no change	pseudoNegation	forward	PSEU	no	DT	change	NN
+no definite change	pseudoNegation	forward	PSEU	no	DT	change	NN
+no increase	pseudoNegation	forward	PSEU	no	DT	increase	NN
+no significant change	pseudoNegation	forward	PSEU	no	DT	change	NN
+no significant interval change	pseudoNegation	forward	PSEU	no	DT	change	NN
+no suspicious change	pseudoNegation	forward	PSEU	no	DT	change	NN
+not cause	pseudoNegation	forward	PSEU	not	RB	cause	NN
+not drain	pseudoNegation	forward	PSEU	not	RB	drain	NN
+not extend	pseudoNegation	forward	PSEU	not	RB	extend	NN
+not necessarily	pseudoNegation	forward	PSEU	not	RB	necessarily	RB
+not only	pseudoNegation	forward	PSEU	not	RB	only	RB
+positive study for	pseudoNegation	forward	PSEU	positive	JJ	for	IN
+without difficulty	pseudoNegation	forward	PSEU	without	IN	difficulty	NN
+did not rule out	pseudoNegation	forward	PSEU	did	VBD	out	IN
+no evidence to suggest	definiteNegatedExistence	forward	PREN	no	DT	suggest	NN
+no interval change	definiteNegatedExistence	forward	PREN	no	DT	change	NN
+no mammographic evidence of	definiteNegatedExistence	forward	PREN	no	DT	of	IN
+no new evidence	definiteNegatedExistence	forward	PREN	no	DT	evidence	NN
+no other evidence	definiteNegatedExistence	forward	PREN	no	DT	evidence	NN
+no radiographic evidence of	definiteNegatedExistence	forward	PREN	no	DT	of	IN
+not appear	probableNegatedExistence	backward	POSP	not	RB	appear	VB
+without any evidence of	definiteNegatedExistence	forward	PREN	without	IN	of	IN
+without evidence	definiteNegatedExistence	forward	PREN	without	IN	evidence	NN
