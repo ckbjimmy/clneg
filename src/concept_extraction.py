@@ -1,5 +1,7 @@
 # concept extraction
 import os
+import re
+import pandas as pd
 from lxml import etree
 #import subprocess
 
@@ -28,7 +30,7 @@ def extract_cuis(xml_filename):
     return [(row_id, str(cs[3][0]), str(cs[3][1]), cs[0], cs[1], txt[(cs[3][0]):(cs[3][1])], cs[2]) for cs in cui_spans]
 
 
-def ctakes_concept_extraction(data_dir, ctakes_folder):
+def ctakes_concept_extraction(data_dir, ctakes_folder, hard_section_list):
 	# run ctakes
 	os.system('find . -name ".DS_Store" -type f -delete -print; ')
 	os.system('cp ' + data_dir + 'tmp ' + ctakes_folder + 'note_input/')

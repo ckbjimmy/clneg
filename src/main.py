@@ -40,9 +40,9 @@ if __name__ == '__main__':
 	neg_term.extend(item + ' ' for item in neg)
 
 	nlp = StanfordCoreNLP('http://localhost:9000')
-	mimic_tokenize(data_dir, filenames, nlp, neg_term)
+	hard_section_list = mimic_tokenize(data_dir, filenames, nlp, neg_term)
 
-	df = ctakes_concept_extraction(data_dir, ctakes_folder)
+	df = ctakes_concept_extraction(data_dir, ctakes_folder, hard_section_list)
 	df1 = df[df.sent_id != 0]
 	df0 = df[df.sent_id == 0]
 
@@ -57,7 +57,7 @@ if __name__ == '__main__':
 	for i, t in enumerate(tree_list):
 	    print('sent: ' + str(i))
 	    print('original: ' + sl[i])
-	    
+
 	    # get negated part of the sentence
 	    with open(data_dir + 'ntree_tmp', 'w') as fw:     
 	        fw.write(t)
@@ -191,7 +191,7 @@ if __name__ == '__main__':
 	df_s = df_s.drop_duplicates(['sent_id', 'start'], keep='first')
 	df_s = df_s.drop_duplicates(['sent_id', 'end'], keep='first')
 	df_s = df_s.sort_values('start', ascending=True)
-	df_s.to_csv('output', sep='\t', index=False)
+	df_s.to_csv('../data/final_output', sep='\t', index=False)
 	df_s[(df_s.sent_id != 0) & (df_s.section != '')]
 
 	df_ss = df_s[(df_s.sent_id != 0) & (df_s.section != '')]

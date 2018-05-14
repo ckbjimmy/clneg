@@ -146,3 +146,5 @@ def mimic_tokenize(data_dir, filenames, nlp, neg_term):
 	                    f.write('\n\n\n\n' + item + '\t [AFFIRMED]')
 	        # add section end tag
 	        f.write('\n\n\n\n[SECTION-{}-END]'.format(section_name)) # this file for concept extraction and sentence parsing
+
+	return hard_section_list
