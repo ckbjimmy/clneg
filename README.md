@@ -28,6 +28,12 @@ However, you still need to request the access to UMLS by yourself to ensure that
 1. Request the UMLS access (this step will require few days for NIH/NLM to inspect your access application)
 2. Run `sh setup.sh` in the first time
 3. Add your UMLS account/password to `./src/ctakes/bin/pipeline.sh` after `-Dctakes.umlsuser=` and `-Dctakes.umlspw=`
-4. Run `sh init.sh` to initialize Stanford CoreNLP server and Apache OpenNLP server
-5. Run `main.py`
-6. *Baseline can be obatined by running `negex.py`
+4. Run `sh run_corenlp.sh` and `sh run_opennlp.sh` to initialize Stanford CoreNLP server and Apache OpenNLP server
+5. Open the other terminal and run `main.py [file_path]`
+
+- `../data/dev.txt` for development set
+- `../data/test_ready.txt` for evaluation set
+- `../data/1.txt` for testing note (as well as `2.txt`, `3.txt`)
+
+6. Baseline can be obatined by running `negex.py`
+7. Please check the terminal screen for sentence parsing, and check the `../data/final_output`
