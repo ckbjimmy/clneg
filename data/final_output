@@ -1,0 +1,10 @@
+fname	start	end	cui	tui	original	preferred	section	negation	sent_id	sent_loc	len
+tmp	78	90	C0332448	T046	infiltration	Infiltration	History of Present Illness	1	1	33	12
+tmp	107	116	C0009450	T047	infection	Communicable Diseases	History of Present Illness	1	2	5	9
+tmp	178	182	C0311392	T033	sign	Physical findings	History of Present Illness	1	3	37	4
+tmp	186	195	C0009450	T047	infection	Communicable Diseases	History of Present Illness	1	3	45	9
+tmp	212	221	C0009450	T047	infection	Communicable Diseases	History of Present Illness	1	4	5	9
+tmp	282	295	C0018801	T047	heart failure	Heart failure	History of Present Illness	1	5	40	13
+tmp	335	345	C0006826	T191	malignancy	Malignant Neoplasms	History of Present Illness	1	6	28	10
+tmp	394	399	C0027651	T191	tumor	Neoplasms	History of Present Illness	1	7	37	5
+tmp	422	432	C0006826	T191	malignancy	Malignant Neoplasms	History of Present Illness	1	8	11	10

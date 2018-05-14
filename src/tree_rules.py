@@ -37,7 +37,7 @@ trts['ADJP-P'] = ('VP=vp <<- /free|negative|absent|ruled|out|doubtful|unlikely|e
 # this is ant, negative for ...
 # trts['ADJP-A'] = ('PP=head $ JJ=neg < NP=target >> TOP=t > ADJP=s', \
 #                 'delete neg')
-trts['ADJP-A'] = ('PP=head $ /JJ|ADJP|NP/=neg <- NP=target >> TOP=t >> /S|NP/=s', \
+trts['ADJP-A'] = ('PP=head $ /JJ|ADJP|NP/=neg <- NP=target >> TOP=t >> /S|NP|ADJP/=s', \
                 'excise s target')
 # not
 # trts['ADVP-P'] = ('VP=target <<, /VB*|MD/ $ RB=neg >> TOP=t >> S=s', \

@@ -1,6 +1,10 @@
 # syntactic parsing
 from jsonrpclib.jsonrpc import ServerProxy
 import requests
+from tree_rules import *
+import subprocess
+import re
+import os
 
 class OpenNLP:
     def __init__(self, host='localhost', port=8080):
@@ -72,27 +76,28 @@ def synparse(data_dir, neg_list, openNLP):
 #     return ''
 
 
-def extract_subtree_treefile(f, tregex):
-    t = subprocess.Popen(tregex_dir + 'tregex.sh ' + tregex + ' ' + f , stdout=subprocess.PIPE, shell=True)
-    p = subprocess.Popen(tregex_dir + 'tregex.sh ' + tregex + ' ' + f + ' -t', stdout=subprocess.PIPE, shell=True)
-    (tree, err) = t.communicate()
-    (output, err) = p.communicate()
-    print(tree)
-    print(output)
-    return output
+# def extract_subtree_treefile(f, tregex):
+#     t = subprocess.Popen(tregex_dir + 'tregex.sh ' + tregex + ' ' + f , stdout=subprocess.PIPE, shell=True)
+#     p = subprocess.Popen(tregex_dir + 'tregex.sh ' + tregex + ' ' + f + ' -t', stdout=subprocess.PIPE, shell=True)
+#     (tree, err) = t.communicate()
+#     (output, err) = p.communicate()
+#     print(tree)
+#     print(output)
+#     return output
 
 
-def tregex_tsurgeon(f, pos):
+def tregex_tsurgeon(f, pos, trts=trts):
     cmd = trts[pos][0] + '\n\n' + trts[pos][1].replace(',', '\n')
     with open('./stanford-tregex-2018-02-27/ts', 'w') as fw:     
         fw.write(cmd)
-    t = subprocess.Popen('cd ' + tregex_dir + '; ./tsurgeon.sh -treeFile ../' + f + ' ts; cd ..', stdout=subprocess.PIPE, shell=True)
-    p = subprocess.Popen('cd ' + tregex_dir + '; ./tsurgeon.sh -treeFile ../' + f + ' ts -s; cd ..', stdout=subprocess.PIPE, shell=True)
+    t = subprocess.Popen('cd stanford-tregex-2018-02-27; ./tsurgeon.sh -treeFile ../' + f + ' ts; cd ..', stdout=subprocess.PIPE, shell=True)
+    p = subprocess.Popen('cd stanford-tregex-2018-02-27; ./tsurgeon.sh -treeFile ../' + f + ' ts -s; cd ..', stdout=subprocess.PIPE, shell=True)
     (tree, err) = t.communicate()
     (output, err) = p.communicate()
     print('constituency tree: ' + output.replace('\n', ''))
     ts_out = re.sub('\([A-Z]*\$? |\(-[A-Z]+- |\)|\)|\(, |\(. |\n', '', output)
     ts_out = re.sub('-LRB-', '(', ts_out)
     ts_out = re.sub('-RRB-', ')', ts_out)
-    return ts_out
+    os.system("rm ./stanford-tregex-2018-02-27/ts")
+    return ts_out, tree
 

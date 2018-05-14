@@ -53,7 +53,7 @@ if __name__ == '__main__':
 	RM_POS = ['NN', 'NNS', 'RB', 'NP', 'ADVP', 'IN']
 	RM_CP = ['however', 'although', 'but']
 
-
+	print("\n--- Constituency tree parsing ---\n")
 	for i, t in enumerate(tree_list):
 	    print('sent: ' + str(i))
 	    print('original: ' + sl[i])
@@ -164,24 +164,23 @@ if __name__ == '__main__':
 	            print('--- VP-A CC')
 	            ts_out, tree = tregex_tsurgeon(data_dir + 'ntree_tmp', 'VP-CC')
 
-	        print('>> ' + ts_out + '\n')
+	        print('>> ' + ts_out)
 
 	        try:
 	            neg_range = (sl[i].index(ts_out) + 1, sl[i].index(ts_out) + len(ts_out)) # negated place
 	        except:
 	            neg_range = (0, len(sl))
 	        
-	        print(neg_range)
+	        print('>> negated span: ' + str(neg_range) + '\n')
 
 	        for idx in df1.index:
-	            if df1['sent_id'][idx] == i+1 and df1['sent_loc'][idx] in range(neg_range[0], neg_range[1]):
+	            if df1['sent_id'][idx] == i+1 and df1['sent_loc'][idx] in range(neg_range[0], neg_range[1]+1):
 	                df1['negation'][idx] = 1
 	                
 	    except: # need to debug why very few cases don't work
 	        continue
 
 	os.system('rm ../data/ntree_tmp')
-	os.system('rm ../src/ts_run.sh')
 
 	# preserve the longest strings/concepts
 	df_s = df1
@@ -195,4 +194,5 @@ if __name__ == '__main__':
 	df_s[(df_s.sent_id != 0) & (df_s.section != '')]
 
 	df_ss = df_s[(df_s.sent_id != 0) & (df_s.section != '')]
+	print("\n--- Final output ---\n")
 	print_out_result(df_ss)
