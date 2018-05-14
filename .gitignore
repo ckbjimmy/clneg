@@ -108,4 +108,4 @@ stanford-tregex-2018-02-27/
 opennlp-python/
 data/tmp*
 data/ntree_tmp
-data/*output
+data/final_output

@@ -33,7 +33,7 @@ However, you still need to request the access to UMLS by yourself to ensure that
 
 - `../data/dev.txt` for development set
 - `../data/test_ready.txt` for evaluation set
-- `../data/1.txt` for testing note (as well as `2.txt`, `3.txt`)
+- `../data/1.txt` for testing note (as well as `2.txt`, `3.txt`) (The notes are no longer be available here. Please request the DUA of MIMIC-III database for using the notes)
 
 6. Baseline can be obatined by running `negex.py`
 7. Please check the terminal screen for sentence parsing, and check the `../data/final_output`
