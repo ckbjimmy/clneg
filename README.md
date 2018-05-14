@@ -29,7 +29,7 @@ However, you still need to request the access to UMLS by yourself to ensure that
 2. Run `sh setup.sh` in the first time
 3. Add your UMLS account/password to `./src/ctakes/bin/pipeline.sh` after `-Dctakes.umlsuser=` and `-Dctakes.umlspw=`
 4. Run `sh run_corenlp.sh` and `sh run_opennlp.sh` to initialize Stanford CoreNLP server and Apache OpenNLP server
-5. Open the other terminal and run `main.py [file_path]`
+5. Open the other terminal and run `python main.py [file_path]`
 
 - `../data/dev.txt` for development set
 - `../data/test_ready.txt` for evaluation set
@@ -37,3 +37,5 @@ However, you still need to request the access to UMLS by yourself to ensure that
 
 6. Baseline can be obatined by running `negex.py`
 7. Please check the terminal screen for sentence parsing, and check the `../data/final_output`
+
+- For the process of development, please check the jupyter notebook `nlp_dev.ipynb`
