@@ -1,6 +1,6 @@
 # section and sentence tokenization for MIMIC-III discharge summaries
 import os
-
+import re
 
 def match_section_name(name, section_dict, nlp_parser):
     output = nlp_parser.annotate(name.lower(), properties={

@@ -106,3 +106,5 @@ ctakes/
 stanford-corenlp-full-2018-02-27/
 stanford-tregex-2018-02-27/
 opennlp-python/
+data/tmp*
+data/ntree_tmp

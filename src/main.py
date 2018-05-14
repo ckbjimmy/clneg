@@ -57,7 +57,7 @@ if __name__ == '__main__':
 	for i, t in enumerate(tree_list):
 	    print('sent: ' + str(i))
 	    print('original: ' + sl[i])
-
+	    
 	    # get negated part of the sentence
 	    with open(data_dir + 'ntree_tmp', 'w') as fw:     
 	        fw.write(t)
