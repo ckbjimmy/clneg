@@ -102,4 +102,7 @@ ENV/
 
 .DS_Store
 *.pyc
-
+ctakes/
+stanford-corenlp-full-2018-02-27/
+stanford-tregex-2018-02-27/
+opennlp-python/

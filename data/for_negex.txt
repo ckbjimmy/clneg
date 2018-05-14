@@ -1,0 +1,308 @@
+Report.No.	Concept	Sentence	Negation
+2	pericardial effusion	No PERICARDIAL EFFUSION is seen.	Negated
+3	fever	She denies FEVER, chills, or other constitutional symptoms.	Negated
+3	chills	She denies fever, CHILLS, or other constitutional symptoms.	Negated
+3	constitutional symptoms	She denies fever, chills, or other CONSTITUTIONAL SYMPTOMS.	Negated
+3	headache	Denies HEADACHE.	Negated
+3	posterior neck pain	Denies POSTERIOR NECK PAIN.	Negated
+3	shortness of breath	Denies SHORTNESS OF BREATH, stridor, or air hunger.	Negated
+3	stridor	Denies shortness of breath, STRIDOR, or air hunger.	Negated
+3	air hunger	Denies shortness of breath, stridor, or AIR HUNGER.	Negated
+3	chest pain	No CHEST PAIN.	Negated
+3	abdominal pain	No   ABDOMINAL PAIN.	Negated
+3	focal neurologic deficits	No FOCAL NEUROLOGIC DEFICITS.	Negated
+3	DRUG ALLERGIES	ALLERGIES:  NO KNOWN DRUG ALLERGIES.	Negated
+3	acute distress	General - alert and oriented times three, in no ACUTE DISTRESS.	Negated
+3	foreign   body visualized in the upper pharynx	No FOREIGN   BODY VISUALIZED IN THE UPPER PHARYNX.	Negated
+3	tongue elevation	No TONGUE ELEVATION.	Negated
+3	anterior   cervical lymphadenopathy	No ANTERIOR   CERVICAL LYMPHADENOPATHY.	Negated
+3	JVD	Neck supple, no JVD.	Negated
+3	murmurs	No MURMURS.	Negated
+4	diverticula	There was no  evidence of ulceration, mass or DIVERTICULA.	Negated
+7	shortness of breath	Denies any SHORTNESS OF BREATH or   diaphoresis.	Negated
+7	diaphoresis	Denies any shortness of breath or   DIAPHORESIS.	Negated
+8	pericardial   effusion	No PERICARDIAL   EFFUSION is seen.	Negated
+9	fevers	REVIEW OF SYSTEMS:    Review of systems was negative and the patient has denied any FEVERS or   chills.	Negated
+9	chills	REVIEW OF SYSTEMS:    Review of systems was negative and the patient has denied any fevers or   CHILLS.	Negated
+9	chest pain	No CHEST PAIN, no shortness of breath, and no abdominal pain.	Negated
+9	shortness of breath	No chest pain, no SHORTNESS OF BREATH, and no abdominal pain.	Negated
+9	abdominal pain	No chest pain, no shortness of breath, and no ABDOMINAL PAIN.	Negated
+9	myalgias	Denied any MYALGIAS or arthralgias.	Negated
+9	arthralgias	Denied any myalgias or ARTHRALGIAS.	Negated
+9	constipation	Denied any CONSTIPATION or diarrhea.	Negated
+9	diarrhea	Denied any constipation or DIARRHEA.	Negated
+9	abnormal bleeding other than the bleeding from her vagina	Denied any ABNORMAL BLEEDING OTHER THAN THE BLEEDING FROM HER VAGINA.	Negated
+9	headaches	Denied   any HEADACHES.	Negated
+9	nausea	No NAUSEA or vomiting.	Negated
+9	vomiting	No nausea or VOMITING.	Negated
+9	DRUG ALLERGIES	ALLERGIES:   NO KNOWN DRUG ALLERGIES.	Negated
+9	drug use	Denied any DRUG USE.	Negated
+9	apparent distress	GENERAL:  In general, she is in no APPARENT DISTRESS lying on her back with   sullen facies.	Negated
+9	murmurs	No MURMURS, rubs, or gallops.	Negated
+9	rubs	No murmurs, RUBS, or gallops.	Negated
+9	gallops	No murmurs, rubs, or GALLOPS.	Negated
+9	rashes	SKIN:  No RASHES.	Negated
+9	Fecal occult blood	FECAL OCCULT BLOOD was negative.	Negated
+9	blood in the vagina	There was no BLOOD IN THE VAGINA.	Negated
+10	polyps	There was no evidence of POLYPS or mass.	Negated
+11	ACUTE CARDIOPULMONARY DISEASE	IMPRESSION:       NO EVIDENCE OF ACUTE CARDIOPULMONARY DISEASE.	Negated
+13	poor mental status	There was a concern for a possible aspiration   pneumonia given the patients vomiting and POOR MENTAL STATUS.	Affirmed
+13	aspiration pneumonia	The patient   was given Unasyn 3 g IV for possible ASPIRATION PNEUMONIA.	Affirmed
+13	anemia	The patients H   and H were at baseline without any evidence of significant ANEMIA.	Negated
+13	coffee-ground emesis	At the time of discharge, the patient had no further   episodes of COFFEE-GROUND EMESIS or any signs of active bleeding.	Negated
+13	pneumonia	Chest x-ray upon admission revealed a small to moderate left   basilar atelectasis/effusion and there were no findings of PNEUMONIA.	Negated
+13	pneumonia	She showed no clinical signs or symptoms of PNEUMONIA.	Negated
+13	respiratory distress	At the time of discharge, she showed no signs of RESPIRATORY DISTRESS.	Negated
+13	DRUG ALLERGIES	ALLERGIES:  NO KNOWN DRUG ALLERGIES.	Negated
+15	congestive heart   failure	HISTORY OF PRESENT ILLNESS:  Mr. **NAME[AAA] is a **AGE[90+]-year-old gentleman with a past medical history of coronary   artery disease, status post CABG, but no history of known CONGESTIVE HEART   FAILURE, who has not been admitted to the hospital in the last five to six   years, who presents today after a syncopal episode.	Negated
+15	palpitations	He denies any   antecedent PALPITATIONS, shortness of breath, chest pain, headache, or   lightheadedness.	Negated
+15	shortness of breath	He denies any   antecedent palpitations, SHORTNESS OF BREATH, chest pain, headache, or   lightheadedness.	Negated
+15	chest pain	He denies any   antecedent palpitations, shortness of breath, CHEST PAIN, headache, or   lightheadedness.	Negated
+15	headache	He denies any   antecedent palpitations, shortness of breath, chest pain, HEADACHE, or   lightheadedness.	Negated
+15	lightheadedness	He denies any   antecedent palpitations, shortness of breath, chest pain, headache, or   LIGHTHEADEDNESS.	Negated
+15	chest pain 	He still denies any   CHEST PAIN or shortness of breath.	Negated
+15	shortness of breath	He still denies any   chest pain or SHORTNESS OF BREATH.	Negated
+15	focal sensory or motor deficits	No FOCAL SENSORY OR MOTOR DEFICITS on history.	Negated
+15	ALLERGIES	ALLERGIES - NONE.	Negated
+15	fevers	REVIEW OF SYSTEMS:  Constitutional - No FEVERS, chills, or sweats.	Negated
+15	chills	REVIEW OF SYSTEMS:  Constitutional - No fevers, CHILLS, or sweats.	Negated
+15	sweats	REVIEW OF SYSTEMS:  Constitutional - No fevers, chills, or SWEATS.	Negated
+15	headache	HEENT - No HEADACHE or difficulty hearing.	Negated
+15	difficulty hearing	HEENT - No headache or DIFFICULTY HEARING.	Negated
+15	shortness of breath	Pulmonary - No SHORTNESS OF BREATH or pleuritic chest pain.	Negated
+15	pleuritic chest pain	Pulmonary - No shortness of breath or PLEURITIC CHEST PAIN.	Negated
+15	substernal chest pressure 	Cardiovascular - No SUBSTERNAL CHEST PRESSURE or dyspnea on exertion.	Negated
+15	dyspnea on exertion	Cardiovascular - No substernal chest pressure or DYSPNEA ON EXERTION.	Negated
+15	nausea	GI - No NAUSEA or vomiting.	Negated
+15	vomiting	GI - No nausea or VOMITING.	Negated
+15	frequency	GU - No FREQUENCY, urgency, or dysuria.	Negated
+15	urgency	GU - No frequency, URGENCY, or dysuria.	Negated
+15	dysuria	GU - No frequency, urgency, or DYSURIA.	Negated
+15	arthralgias	Musculoskeletal - No ARTHRALGIAS or myalgias.	Negated
+15	myalgias	Musculoskeletal - No arthralgias or MYALGIAS.	Negated
+15	numbness	Neurologic - No NUMBNESS, tingling, or weakness.	Negated
+15	tingling	Neurologic - No numbness, TINGLING, or weakness.	Negated
+15	weakness	Neurologic - No numbness, tingling, or WEAKNESS.	Negated
+15	acute distress	General - No ACUTE DISTRESS.	Negated
+15	JVD	Neck - Supple no JVD, lymph node, or cervical lymphadenopathy.	Negated
+15	cervical lymphadenopathy	Neck - Supple no JVD, lymph node, or CERVICAL LYMPHADENOPATHY.	Negated
+15	murmurs	Cardiovascular - Regular rate and rhythm, no MURMURS, rubs, gallops.	Negated
+15	rubs	Cardiovascular - Regular rate and rhythm, no murmurs, RUBS, gallops.	Negated
+15	gallops	Cardiovascular - Regular rate and rhythm, no murmurs, rubs, GALLOPS.	Negated
+15	focal sensory or motor deficits	No FOCAL SENSORY OR MOTOR DEFICITS.	Negated
+15	acute   ischemic changes	EKG Interpretation - A 12-lead EKG shows normal sinus rhythm with no ACUTE   ISCHEMIC CHANGES.	Negated
+15	anemic	The patient was not ANEMIC.	Negated
+27	chest pain	She denies any CHEST PAIN and denies difficulty breathing.	Negated
+27	difficulty breathing	She denies any chest pain and denies DIFFICULTY BREATHING.	Negated
+27	lightheaded	She was not LIGHTHEADED at all.	Negated
+27	back   pain	She admits to mild nausea   during this episode while she was at the **INSTITUTION and denies any BACK   PAIN, denies fevers, denies cough, or cold symptoms.	Negated
+27	fevers	She admits to mild nausea   during this episode while she was at the **INSTITUTION and denies any back   pain, denies FEVERS, denies cough, or cold symptoms.	Negated
+27	cough	She admits to mild nausea   during this episode while she was at the **INSTITUTION and denies any back   pain, denies fevers, denies COUGH, or cold symptoms.	Negated
+27	cold symptoms	She admits to mild nausea   during this episode while she was at the **INSTITUTION and denies any back   pain, denies fevers, denies cough, or COLD SYMPTOMS.	Negated
+27	change in   bowel or bladder habits	She denies CHANGE IN   BOWEL OR BLADDER HABITS.	Negated
+27	Tobacco	SOCIAL HISTORY:   TOBACCO: Quit smoking in 1958.	Negated
+27	alcohol	Denies ALCOHOL or other drug use.	Negated
+27	drug use	Denies alcohol or other DRUG USE.	Negated
+27	acute distress	GENERAL: She is not in any ACUTE DISTRESS.	Negated
+27	wheezes	No WHEEZES, rales, or   rhonchi.	Negated
+27	rales	No wheezes, RALES, or   rhonchi.	Negated
+27	rhonchi	No wheezes, rales, or   RHONCHI.	Negated
+27	hyponatremia	On my exam, her HYPONATREMIA from last week appears have   resolved, with a sodium of 134.	Negated
+28	polyps	There was no evidence of POLYPS or mass.	Negated
+29	intracranial hemorrhage	FINDINGS: No INTRACRANIAL HEMORRHAGE can be identified.	Negated
+29	INTRACRANIAL PATHOLOGY	IMPRESSION:   NO INTRACRANIAL PATHOLOGY IDENTIFIED.	Negated
+31	focal neurologic deficits	She has no FOCAL NEUROLOGIC DEFICITS.	Negated
+32	pericardial effusion	No PERICARDIAL EFFUSION is seen.	Negated
+33	acute distress	PHYSICAL EXAM:  GENERAL:  In no ACUTE DISTRESS.	Negated
+33	infection	No sign of INFECTION.	Negated
+33	infection	The patient has normal range   of motion in her hand with good capillary refill, and no signs of INFECTION.	Negated
+34	polyps	There was no evidence of POLYPS, although the examination  was limited by the quality of the prep.	Negated
+37	DVT	PRINCIPAL PROCEDURES AND TESTS:  Doppler of the lower extremities negative   for DVT.	Negated
+37	change in sleep	The patient denies CHANGE IN SLEEP.	Negated
+37	worthlessness 	The patient denies WORTHLESSNESS or self-esteem or anhedonia.	Negated
+37	anhedonia	The patient denies worthlessness or self-esteem or ANHEDONIA.	Negated
+37	mania	She denies any symptoms of psychosis or   MANIA, OCD.	Negated
+37	delusions	No evidence of DELUSIONS or hallucinations but   had bizarre behavior that therapist felt to be her associated state.	Negated
+37	hallucinations	No evidence of delusions or HALLUCINATIONS but   had bizarre behavior that therapist felt to be her associated state.	Negated
+37	lethargic	The patient was not LETHARGIC or agitated during the   hospitalization.	Negated
+37	agitated	The patient was not lethargic or AGITATED during the   hospitalization.	Negated
+37	delusions	No DELUSIONS, lethargy, or   hallucinations.	Negated
+37	lethargy	No delusions, LETHARGY, or   hallucinations.	Negated
+37	hallucinations	No delusions, lethargy, or   HALLUCINATIONS.	Negated
+38	pericardial effusion	No PERICARDIAL EFFUSION is seen.	Negated
+38	right to left intracardiac shunt	Normal saline contrast   injection without evidence of RIGHT TO LEFT INTRACARDIAC SHUNT.	Negated
+38	right to left  intracardiac shunt	04) Normal saline contrast injection without evidence of RIGHT TO LEFT  INTRACARDIAC SHUNT.	Negated
+39	numbness	No NUMBNESS or  tingling or other injuries.	Negated
+39	tingling	No numbness or  TINGLING or other injuries.	Negated
+39	pain  proximal to his hand	No PAIN  PROXIMAL TO HIS HAND and otherwise has  no other injuries.	Negated
+39	alcohol	SOCIAL HISTORY:     Denies any ALCOHOL, tobacco or illicit drug use.	Negated
+39	tobacco	SOCIAL HISTORY:     Denies any alcohol, TOBACCO or illicit drug use.	Negated
+39	illicit drug use	SOCIAL HISTORY:     Denies any alcohol, tobacco or ILLICIT DRUG USE.	Negated
+39	acute distress	PHYSICAL EXAMINATION:     GENERAL:  In no ACUTE DISTRESS.	Negated
+39	thyromegaly	No lymphadenopathy, THYROMEGALY or JVD.	Negated
+39	JVD	No lymphadenopathy, thyromegaly or JVD.	Negated
+39	rales	No RALES, rhonchi or wheezes.	Negated
+39	rhonchi	No rales, RHONCHI or wheezes.	Negated
+39	wheezes	No rales, rhonchi or WHEEZES.	Negated
+39	murmurs	No MURMURS, gallops, rubs.	Negated
+39	gallops	No murmurs, GALLOPS, rubs.	Negated
+39	rubs	No murmurs, gallops, RUBS.	Negated
+39	masses	No MASSES,   splenomegaly.	Negated
+39	splenomegaly	No masses,   SPLENOMEGALY.	Negated
+39	clubbing	EXTREMITIES:  No CLUBBING or cyanosis.	Negated
+39	cyanosis	EXTREMITIES:  No clubbing or CYANOSIS.	Negated
+39	injury proximal to his wrist	No INJURY PROXIMAL TO HIS WRIST.	Negated
+53	pleural effusion	There is no PLEURAL EFFUSION or  pneumothorax.	Negated
+53	pneumothorax	There is no pleural effusion or  PNEUMOTHORAX.	Negated
+55	headache	The patient denied any HEADACHE,   neck pain, weakness, numbness or paraesthesias.	Negated
+55	neck pain	The patient denied any headache,   NECK PAIN, weakness, numbness or paraesthesias.	Negated
+55	weakness	The patient denied any headache,   neck pain, WEAKNESS, numbness or paraesthesias.	Negated
+55	numbness	The patient denied any headache,   neck pain, weakness, NUMBNESS or paraesthesias.	Negated
+55	paraesthesias	The patient denied any headache,   neck pain, weakness, numbness or PARAESTHESIAS.	Negated
+55	fever	He denied any FEVER.	Negated
+55	nausea	His NAUSEA and vomiting resolved.	Negated
+55	vomiting	His nausea and VOMITING resolved.	Negated
+55	abdominal pain	He did not have any ABDOMINAL PAIN.	Negated
+56	pericardial   effusion	No PERICARDIAL   EFFUSION is seen.	Negated
+57	incontinence	She denies any   INCONTINENCE.	Negated
+57	alcohol use	SOCIAL HISTORY:  The patient denies ALCOHOL USE.	Negated
+57	weakness	No   WEAKNESS.	Negated
+57	acute   disk herniation	She had no signs of ACUTE   DISK HERNIATION or weakness.	Negated
+57	weakness	She had no signs of acute   disk herniation or WEAKNESS.	Negated
+58	change in bowel habit	GI  ROS is -ve for CHANGE IN BOWEL HABIT, bleeding (occult nor overt), change in  weight, anemia or any "alarm" symptom or sign.	Negated
+58	bleeding	GI  ROS is -ve for change in bowel habit, BLEEDING (occult nor overt), change in  weight, anemia or any "alarm" symptom or sign.	Negated
+58	change in  weight	GI  ROS is -ve for change in bowel habit, bleeding (occult nor overt), CHANGE IN  WEIGHT, anemia or any "alarm" symptom or sign.	Negated
+58	anemia	GI  ROS is -ve for change in bowel habit, bleeding (occult nor overt), change in  weight, ANEMIA or any "alarm" symptom or sign.	Negated
+58	polyps	There was no evidence of POLYPS, mass or diverticula.	Negated
+58	diverticula	There was no evidence of polyps, mass or DIVERTICULA.	Negated
+59	calcaneal fracture	No CALCANEAL FRACTURE can be seen.	Negated
+60	INTRAEPITHELIAL LESION OR MALIGNANCY	INTERPRETATION:  NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.	Negated
+61	infection	This gradually   cleared, and there were no further signs or symptoms of INFECTION.	Negated
+61	fever	She had no FEVER.	Negated
+61	chills	She had no CHILLS.	Negated
+61	infection	She had no overt   signs or symptoms of INFECTION.	Negated
+61	DRUG ALLERGIES	ALLERGIES:  NO KNOWN DRUG ALLERGIES.	Negated
+62	pericardial effusion	No PERICARDIAL EFFUSION is   seen.	Negated
+63	abdominal pain	She denies any ABDOMINAL PAIN, no chest pain or shortness of   breath, she has had no particular sick contacts, and she has been using   over-the-counter remedies with no specific relief.	Negated
+63	chest pain	She denies any abdominal pain, no CHEST PAIN or shortness of   breath, she has had no particular sick contacts, and she has been using   over-the-counter remedies with no specific relief.	Negated
+63	shortness of   breath	She denies any abdominal pain, no chest pain or SHORTNESS OF   BREATH, she has had no particular sick contacts, and she has been using   over-the-counter remedies with no specific relief.	Negated
+63	sick contacts	She denies any abdominal pain, no chest pain or shortness of   breath, she has had no particular SICK CONTACTS, and she has been using   over-the-counter remedies with no specific relief.	Negated
+63	acute distress	PHYSICAL EXAMINATION:  General - In no ACUTE DISTRESS.	Negated
+63	thyromegaly	Neck - Supple, no lymphadenopathy, THYROMEGALY, or JVD.	Negated
+63	JVD	Neck - Supple, no lymphadenopathy, thyromegaly, or JVD.	Negated
+63	rales	Lungs   - CTP, no RALES, rhonchi, or wheezes.	Negated
+63	rhonchi	Lungs   - CTP, no rales, RHONCHI, or wheezes.	Negated
+63	wheezes	Lungs   - CTP, no rales, rhonchi, or WHEEZES.	Negated
+63	murmurs	Heart - Regular rate and rhythm, no   MURMURS, gallops, or rubs.	Negated
+63	gallops	Heart - Regular rate and rhythm, no   murmurs, GALLOPS, or rubs.	Negated
+63	rubs	Heart - Regular rate and rhythm, no   murmurs, gallops, or RUBS.	Negated
+63	organomegaly	Abdomen - Soft, nontender, nondistended, positive   bowel sounds, no mass or ORGANOMEGALY.	Negated
+63	clubbing	Extremities - No CLUBBING, cyanosis,   or edema.	Negated
+63	cyanosis	Extremities - No clubbing, CYANOSIS,   or edema.	Negated
+63	edema	Extremities - No clubbing, cyanosis,   or EDEMA.	Negated
+63	focal infection	The patient had no signs of a FOCAL INFECTION.	Negated
+63	meningitis	She appeared well and had   unremarkable vital signs, no signs of MENINGITIS, otitis, pharyngitis, or   pneumonia.	Negated
+63	otitis	She appeared well and had   unremarkable vital signs, no signs of meningitis, OTITIS, pharyngitis, or   pneumonia.	Negated
+63	pharyngitis	She appeared well and had   unremarkable vital signs, no signs of meningitis, otitis, PHARYNGITIS, or   pneumonia.	Negated
+63	pneumonia	She appeared well and had   unremarkable vital signs, no signs of meningitis, otitis, pharyngitis, or   PNEUMONIA.	Negated
+64	esophageal varices	There was no evidence of ESOPHAGEAL VARICES or gastric  varices.	Negated
+64	gastric  varices	There was no evidence of esophageal varices or GASTRIC  VARICES.	Negated
+67	acute distress	She was afebrile with   stable vitals; awake, alert, and oriented in no ACUTE DISTRESS.	Negated
+68	tamponade	No echocardiographic signs of TAMPONADE are seen.	Negated
+68	mitral regurgitation	03) None MITRAL REGURGITATION.	Negated
+68	tamponade	09) No echocardiographic signs of TAMPONADE are seen.	Negated
+69	fevers	She denies any   FEVERS or chills.	Negated
+69	chills	She denies any   fevers or CHILLS.	Negated
+69	cough	She denies any COUGH or sputum production.	Negated
+69	sputum production	She denies any cough or SPUTUM PRODUCTION.	Negated
+69	dysuria	She denies any   DYSURIA.	Negated
+69	acute   distress	PHYSICAL EXAMINATION:  On examination, the patient is a well-developed white female in no ACUTE   DISTRESS.	Negated
+69	peripheral edema	The extremity examination shows +2 pulses and no PERIPHERAL EDEMA.	Negated
+69	focal neurologic deficit	She   does not have any FOCAL NEUROLOGIC DEFICIT.	Negated
+73	abdominal pain	On **DATE[Sep 26 2007], his nutrition was increased to clear   liquids, then on **DATE[Sep 27 2007], the patient had a turkey sandwich of smashed   potatoes for lunch and states that he did not have ABDOMINAL PAIN, and wished   to go home.	Negated
+73	Partial small bowel obstruction	PARTIAL SMALL BOWEL OBSTRUCTION, resolved.	Negated
+74	pericardial   effusion	No PERICARDIAL   EFFUSION is seen.	Negated
+74	vegetations	04) No VEGETATIONS seen by this technique.	Negated
+75	paresthesias	He denies PARESTHESIAS.	Negated
+75	acute distress	GENERAL:  He is awake, alert, in no ACUTE DISTRESS.	Negated
+80	pericardial   effusion	No PERICARDIAL   EFFUSION is seen.	Negated
+81	coronary artery disease	HISTORY OF PRESENT ILLNESS:  Mr. **NAME[AAA] is a **AGE[in 50s]-year-old African-American male with no history of   CORONARY ARTERY DISEASE who presents with a one-day history of left-sided   substernal chest pressure radiating to his left shoulder.	Negated
+81	headaches	He denies any HEADACHES or   dizziness.	Negated
+81	dizziness	He denies any headaches or   DIZZINESS.	Negated
+81	lower extremity swelling	No LOWER EXTREMITY SWELLING.	Negated
+81	lymphadenopathy	No LYMPHADENOPATHY,   thyromegaly, or JVD.	Negated
+81	thyromegaly	No lymphadenopathy,   THYROMEGALY, or JVD.	Negated
+81	JVD	No lymphadenopathy,   thyromegaly, or JVD.	Negated
+81	rales	No RALES, rhonchi, or wheeze.	Negated
+81	rhonchi	No rales, RHONCHI, or wheeze.	Negated
+81	wheeze	No rales, rhonchi, or WHEEZE.	Negated
+81	murmurs	No MURMURS, gallops, or rubs.	Negated
+81	gallops	No murmurs, GALLOPS, or rubs.	Negated
+81	rubs	No murmurs, gallops, or RUBS.	Negated
+81	hepatosplenomegaly	Abdomen: Soft, nontender,   nondistended with positive bowel sounds and no HEPATOSPLENOMEGALY.	Negated
+81	clubbing	Extremities: No CLUBBING, cyanosis, or edema.	Negated
+81	cyanosis	Extremities: No clubbing, CYANOSIS, or edema.	Negated
+81	edema	Extremities: No clubbing, cyanosis, or EDEMA.	Negated
+81	wide mediastinum	Chest x-ray with demonstrate   no WIDE MEDIASTINUM.	Negated
+86	ischemic EKG changes	There were no ISCHEMIC EKG CHANGES during   stress.	Negated
+86	pericardial effusion	No   PERICARDIAL EFFUSION is seen.	Negated
+86	stress induced chest pain	09) There were no STRESS INDUCED CHEST PAIN, ischemic EKG changes or wall  motion abnormalities at a relatively low level of stress.	Negated
+86	ischemic EKG changes	09) There were no stress induced chest pain, ISCHEMIC EKG CHANGES or wall  motion abnormalities at a relatively low level of stress.	Negated
+86	wall  motion abnormalities	09) There were no stress induced chest pain, ischemic EKG changes or WALL  MOTION ABNORMALITIES at a relatively low level of stress.	Negated
+86	significant coronary artery disease	This is a negative   stress EKG/echocardiographic test for ischemia, therefore, there is a   low suspicion for SIGNIFICANT CORONARY ARTERY DISEASE.	Negated
+87	vomiting	His pain is associated with nausea, no   VOMITING.	Negated
+87	fevers	He does occasionally have loose stools, no FEVERS or chills, no   sick contacts, no recent use of antibiotics.	Negated
+87	chills	He does occasionally have loose stools, no fevers or CHILLS, no   sick contacts, no recent use of antibiotics.	Negated
+87	sick contacts	He does occasionally have loose stools, no fevers or chills, no   SICK CONTACTS, no recent use of antibiotics.	Negated
+87	use of antibiotics	He does occasionally have loose stools, no fevers or chills, no   sick contacts, no recent USE OF ANTIBIOTICS.	Negated
+87	acute distress	PAST MEDICAL HISTORY:     PHYSICAL EXAM:    General Appearance:  In no ACUTE DISTRESS.	Negated
+87	thyromegaly	No lymphadenopathy, THYROMEGALY or JVD.	Negated
+87	 JVD	No lymphadenopathy, thyromegaly or JVD.	Negated
+87	wheezes	No WHEEZES, rales or rhonchi.	Negated
+87	rales	No wheezes, RALES or rhonchi.	Negated
+87	rhonchi	No wheezes, rales or RHONCHI.	Negated
+87	murmurs	No MURMURS, rubs or gallops.	Negated
+87	rubs	No murmurs, RUBS or gallops.	Negated
+87	gallops	No murmurs, rubs or GALLOPS.	Negated
+87	organomegaly	No   masses or ORGANOMEGALY.	Negated
+87	clubbing	Extremities:  No CLUBBING, cyanosis or edema.	Negated
+87	cyanosis	Extremities:  No clubbing, CYANOSIS or edema.	Negated
+87	edema	Extremities:  No clubbing, cyanosis or EDEMA.	Negated
+87	acute abdomen	He   had no signs of an ACUTE ABDOMEN; no signs of cholecystitis, pancreatitis or   peptic ulcer disease.	Negated
+87	cholecystitis	He   had no signs of an acute abdomen; no signs of CHOLECYSTITIS, pancreatitis or   peptic ulcer disease.	Negated
+87	pancreatitis	He   had no signs of an acute abdomen; no signs of cholecystitis, PANCREATITIS or   peptic ulcer disease.	Negated
+87	peptic ulcer disease	He   had no signs of an acute abdomen; no signs of cholecystitis, pancreatitis or   PEPTIC ULCER DISEASE.	Negated
+88	polyps	There was no evidence of POLYPS or mass.	Negated
+92	pericardial   effusion	No PERICARDIAL   EFFUSION is seen.	Negated
+93	tonic/clonic movement	The witnesses did not notice any TONIC/CLONIC MOVEMENT and there was   no history of a seizure.	Negated
+93	seizure	The witnesses did not notice any tonic/clonic movement and there was   no history of a SEIZURE.	Negated
+93	incontinent	She did not become INCONTINENT.	Negated
+93	deafness	Does not   give a history of DEAFNESS and denies any recent nausea, vomiting and   diarrhea.	Negated
+93	nausea	Does not   give a history of deafness and denies any recent NAUSEA, vomiting and   diarrhea.	Negated
+93	vomiting	Does not   give a history of deafness and denies any recent nausea, VOMITING and   diarrhea.	Negated
+93	diarrhea	Does not   give a history of deafness and denies any recent nausea, vomiting and   DIARRHEA.	Negated
+94	esophageal stricture	There was no evidence of stricture, mucosal scalloping or  ESOPHAGEAL STRICTURE.	Negated
+95	additional abnormal areas of  enhancement within the brain parenchyma	There are no other ADDITIONAL ABNORMAL AREAS OF  ENHANCEMENT WITHIN THE BRAIN PARENCHYMA.	Negated
+99	acute MI	I do not believe the   patient is having an ACUTE MI at this time.	Negated
+99	pulmonary infiltrate or edema	The chest x-ray does not demonstrate any   evidence of PULMONARY INFILTRATE OR EDEMA.	Negated
+99	tachycardic	Her digoxin level is 0.6, which appears   to be subtherapeutic; however, she was not TACHYCARDIC, nor was she was in   atrial fibrillation.	Negated
+99	atrial fibrillation	Her digoxin level is 0.6, which appears   to be subtherapeutic; however, she was not tachycardic, nor was she was in   ATRIAL FIBRILLATION.	Negated
+100	gastric varices	There was no evidence of GASTRIC VARICES, ulcers, or  Mallory-Weiss tear.	Negated
+100	Mallory-Weiss tear	There was no evidence of gastric varices, ulcers, or  MALLORY-WEISS TEAR.	Negated
+102	PARATHYROID GLANDS	C.     NO PARATHYROID GLANDS ARE  SEEN.	Negated
+103	discrete hepatic lesions	No DISCRETE HEPATIC LESIONS are shown.	Negated
+103	metastatic disease in the pelvis	No findings of METASTATIC DISEASE IN THE PELVIS.	Negated
+103	osteomyelitis	No findings suggesting OSTEOMYELITIS.	Negated
+103	jaundiced	Her son saw her on **DATE[Mar 19], and at that time, the patient was   not JAUNDICED by his examination.	Negated
+104	pericardial   effusion	No PERICARDIAL   EFFUSION is seen.	Negated
+105	sputum production	He denies any SPUTUM PRODUCTION   or high fever.	Negated
+105	high fever	He denies any sputum production   or HIGH FEVER.	Negated
+105	orthopnea	He denies any ORTHOPNEA, lower extremity edema, or calf pain.	Negated
+105	lower extremity edema	He denies any orthopnea, LOWER EXTREMITY EDEMA, or calf pain.	Negated
+105	or calf pain	He denies any orthopnea, lower extremity edema, OR CALF PAIN.	Negated
+105	tonsillar exudate	There is no TONSILLAR EXUDATE appreciated.	Negated
+105	rales	There are no RALES or rhonchi noted on   examination.	Negated
+105	rhonchi	There are no rales or RHONCHI noted on   examination.	Negated
+105	murmur	There is no MURMUR or ectopy noted.	Negated
+105	peripheral cyanosis	Extremities reveal no PERIPHERAL CYANOSIS or edema.	Negated
+105	edema	Extremities reveal no peripheral cyanosis or EDEMA.	Negated

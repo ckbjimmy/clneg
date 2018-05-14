@@ -24,9 +24,9 @@ for idx in neg_list.index:
     if neg_list['CATEGORY'][idx] == 'pseudoNegation': 
         neg_list['NEG'][idx] = 'PSEU'
     neg_list['FIRST_TOKEN'][idx] = neg_list['ITEM'][idx].split()[0]
-    neg_list['FIRST_POS'][idx] = pos_tag(word_tokenize(neg_list['FIRST_TOKEN'][idx]))[0][1]
+    neg_list['FIRST_POS'][idx] = nltk.pos_tag(nltk.word_tokenize(neg_list['FIRST_TOKEN'][idx]))[0][1]
     neg_list['LAST_TOKEN'][idx] = neg_list['ITEM'][idx].split()[len(neg_list['ITEM'][idx].split())-1]
-    neg_list['LAST_POS'][idx] = pos_tag(word_tokenize(neg_list['LAST_TOKEN'][idx]))[0][1]
+    neg_list['LAST_POS'][idx] = nltk.pos_tag(nltk.word_tokenize(neg_list['LAST_TOKEN'][idx]))[0][1]
 
 neg = neg_list['ITEM'].values
 neg_list.head()

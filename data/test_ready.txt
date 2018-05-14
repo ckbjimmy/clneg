@@ -1,0 +1,195 @@
+Admission Date:                Discharge Date:   
+
+Date of Birth:               Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet
+
+Attending:
+Chief Complaint:
+fever, chills, rigors
+
+Major Surgical or Invasive Procedure:
+Arterial line placement
+
+History of Present Illness:
+
+no pericardial effusion is seen .
+she denies fever , chills , or other constitutional symptoms .
+denies headache .
+denies posterior neck pain .
+denies shortness of breath , stridor , or air hunger .
+no chest pain .
+no abdominal pain .
+no focal neurologic deficits .
+allergies : no known drug allergies .
+general - alert and oriented times three , in no acute distress .
+no foreign body visualized in the upper pharynx .
+no tongue elevation .
+no anterior cervical lymphadenopathy .
+neck supple , no jvd .
+no murmurs .
+there was no evidence of ulceration , mass or diverticula .
+denies any shortness of breath or diaphoresis .
+review of systems : review of systems was negative and the patient has denied any fevers or chills .
+no chest pain , no shortness of breath , and no abdominal pain .
+denied any myalgias or arthralgias .
+denied any constipation or diarrhea .
+denied any abnormal bleeding other than the bleeding from her vagina .
+denied any headaches .
+no nausea or vomiting .
+denied any drug use .
+general : in general , she is in no apparent distress lying on her back with sullen facies .
+no murmurs , rubs , or gallops .
+skin : no rashes .
+fecal occult blood was negative .
+there was no blood in the vagina .
+there was no evidence of polyps or mass .
+impression : no evidence of acute cardiopulmonary disease .
+there was a concern for a possible aspiration pneumonia given the patients vomiting and poor mental status . affirmed
+13	aspiration pneumonia	the patient was given unasyn 3 g iv for possible aspiration pneumonia . affirmed
+13	anemia	the patients h and h were at baseline without any evidence of significant anemia .
+at the time of discharge , the patient had no further episodes of coffee - ground emesis or any signs of active bleeding .
+chest x - ray upon admission revealed a small to moderate left basilar atelectasis / effusion and there were no findings of pneumonia .
+she showed no clinical signs or symptoms of pneumonia .
+at the time of discharge , she showed no signs of respiratory distress .
+history of present illness : mr . * * name [ aaa ] is a * * age [ 90 + ] - year - old gentleman with a past medical history of coronary artery disease , status post cabg , but no history of known congestive heart failure , who has not been admitted to the hospital in the last five to six years , who presents today after a syncopal episode .
+he denies any antecedent palpitations , shortness of breath , chest pain , headache , or lightheadedness .
+he still denies any chest pain or shortness of breath .
+no focal sensory or motor deficits on history .
+allergies - none .
+review of systems : constitutional - no fevers , chills , or sweats .
+heent - no headache or difficulty hearing .
+pulmonary - no shortness of breath or pleuritic chest pain .
+cardiovascular - no substernal chest pressure or dyspnea on exertion .
+gi - no nausea or vomiting .
+gu - no frequency , urgency , or dysuria .
+musculoskeletal - no arthralgias or myalgias .
+neurologic - no numbness , tingling , or weakness .
+general - no acute distress .
+neck - supple no jvd , lymph node , or cervical lymphadenopathy .
+cardiovascular - regular rate and rhythm , no murmurs , rubs , gallops .
+no focal sensory or motor deficits .
+ekg interpretation - a 12 - lead ekg shows normal sinus rhythm with no acute ischemic changes .
+the patient was not anemic .
+she denies any chest pain and denies difficulty breathing .
+she was not lightheaded at all .
+she admits to mild nausea during this episode while she was at the * * institution and denies any back pain , denies fevers , denies cough , or cold symptoms .
+she denies change in bowel or bladder habits .
+social history : tobacco : quit smoking in 1958 .
+denies alcohol or other drug use .
+general : she is not in any acute distress .
+no wheezes , rales , or rhonchi .
+on my exam , her hyponatremia from last week appears have resolved , with a sodium of 134 .
+findings : no intracranial hemorrhage can be identified .
+impression : no intracranial pathology identified .
+she has no focal neurologic deficits .
+physical exam : general : in no acute distress .
+no sign of infection .
+the patient has normal range of motion in her hand with good capillary refill , and no signs of infection .
+there was no evidence of polyps , although the examination was limited by the quality of the prep .
+principal procedures and tests : doppler of the lower extremities negative for dvt .
+the patient denies change in sleep .
+the patient denies worthlessness or self - esteem or anhedonia .
+she denies any symptoms of psychosis or mania , ocd .
+no evidence of delusions or hallucinations but had bizarre behavior that therapist felt to be her associated state .
+the patient was not lethargic or agitated during the hospitalization .
+no delusions , lethargy , or hallucinations .
+normal saline contrast injection without evidence of right to left intracardiac shunt .
+04 ) normal saline contrast injection without evidence of right to left intracardiac shunt .
+no numbness or tingling or other injuries .
+no pain proximal to his hand and otherwise has no other injuries .
+social history : denies any alcohol , tobacco or illicit drug use .
+physical examination : general : in no acute distress .
+no lymphadenopathy , thyromegaly or jvd .
+no rales , rhonchi or wheezes .
+no murmurs , gallops , rubs .
+no masses , splenomegaly .
+extremities : no clubbing or cyanosis .
+no injury proximal to his wrist .
+there is no pleural effusion or pneumothorax .
+the patient denied any headache , neck pain , weakness , numbness or paraesthesias .
+he denied any fever .
+his nausea and vomiting resolved .
+he did not have any abdominal pain .
+she denies any incontinence .
+social history : the patient denies alcohol use .
+no weakness .
+she had no signs of acute disk herniation or weakness .
+gi ros is - ve for change in bowel habit , bleeding ( occult nor overt ) , change in weight , anemia or any " alarm " symptom or sign .
+there was no evidence of polyps , mass or diverticula .
+no calcaneal fracture can be seen .
+interpretation : negative for intraepithelial lesion or malignancy .
+this gradually cleared , and there were no further signs or symptoms of infection .
+she had no fever .
+she had no chills .
+she had no overt signs or symptoms of infection .
+she denies any abdominal pain , no chest pain or shortness of breath , she has had no particular sick contacts , and she has been using over - the - counter remedies with no specific relief .
+physical examination : general - in no acute distress .
+neck - supple , no lymphadenopathy , thyromegaly , or jvd .
+lungs - ctp , no rales , rhonchi , or wheezes .
+heart - regular rate and rhythm , no murmurs , gallops , or rubs .
+abdomen - soft , nontender , nondistended , positive bowel sounds , no mass or organomegaly .
+extremities - no clubbing , cyanosis , or edema .
+the patient had no signs of a focal infection .
+she appeared well and had unremarkable vital signs , no signs of meningitis , otitis , pharyngitis , or pneumonia .
+there was no evidence of esophageal varices or gastric varices .
+she was afebrile with stable vitals ; awake , alert , and oriented in no acute distress .
+no echocardiographic signs of tamponade are seen .
+03 ) none mitral regurgitation .
+09 ) no echocardiographic signs of tamponade are seen .
+she denies any fevers or chills .
+she denies any cough or sputum production .
+she denies any dysuria .
+physical examination : on examination , the patient is a well - developed white female in no acute distress .
+the extremity examination shows + 2 pulses and no peripheral edema .
+she does not have any focal neurologic deficit .
+on * * date [ sep 26 2007 ] , his nutrition was increased to clear liquids , then on * * date [ sep 27 2007 ] , the patient had a turkey sandwich of smashed potatoes for lunch and states that he did not have abdominal pain , and wished to go home .
+partial small bowel obstruction , resolved .
+04 ) no vegetations seen by this technique .
+he denies paresthesias .
+general : he is awake , alert , in no acute distress .
+history of present illness : mr . * * name [ aaa ] is a * * age [ in 50s ] - year - old african - american male with no history of coronary artery disease who presents with a one - day history of left - sided substernal chest pressure radiating to his left shoulder .
+he denies any headaches or dizziness .
+no lower extremity swelling .
+no lymphadenopathy , thyromegaly , or jvd .
+no rales , rhonchi , or wheeze .
+no murmurs , gallops , or rubs .
+abdomen : soft , nontender , nondistended with positive bowel sounds and no hepatosplenomegaly .
+extremities : no clubbing , cyanosis , or edema .
+chest x - ray with demonstrate no wide mediastinum .
+there were no ischemic ekg changes during stress .
+09 ) there were no stress induced chest pain , ischemic ekg changes or wall motion abnormalities at a relatively low level of stress .
+this is a negative stress ekg / echocardiographic test for ischemia , therefore , there is a low suspicion for significant coronary artery disease .
+his pain is associated with nausea , no vomiting .
+he does occasionally have loose stools , no fevers or chills , no sick contacts , no recent use of antibiotics .
+past medical history : physical exam : general appearance : in no acute distress .
+no wheezes , rales or rhonchi .
+no murmurs , rubs or gallops .
+no masses or organomegaly .
+extremities : no clubbing , cyanosis or edema .
+he had no signs of an acute abdomen ; no signs of cholecystitis , pancreatitis or peptic ulcer disease .
+the witnesses did not notice any tonic / clonic movement and there was no history of a seizure .
+she did not become incontinent .
+does not give a history of deafness and denies any recent nausea , vomiting and diarrhea .
+there was no evidence of stricture , mucosal scalloping or esophageal stricture .
+there are no other additional abnormal areas of enhancement within the brain parenchyma .
+i do not believe the patient is having an acute mi at this time .
+the chest x - ray does not demonstrate any evidence of pulmonary infiltrate or edema .
+her digoxin level is 0 . 6 , which appears to be subtherapeutic ; however , she was not tachycardic , nor was she was in atrial fibrillation .
+there was no evidence of gastric varices , ulcers , or mallory - weiss tear .
+c . no parathyroid glands are seen .
+no discrete hepatic lesions are shown .
+no findings of metastatic disease in the pelvis .
+no findings suggesting osteomyelitis .
+her son saw her on * * date [ mar 19 ] , and at that time , the patient was not jaundiced by his examination .
+he denies any sputum production or high fever .
+he denies any orthopnea , lower extremity edema , or calf pain .
+there is no tonsillar exudate appreciated .
+there are no rales or rhonchi noted on examination .
+there is no murmur or ectopy noted .
+extremities reveal no peripheral cyanosis or edema .
+
+Discharge Medications:

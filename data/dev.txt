@@ -1,0 +1,26 @@
+Admission Date:                Discharge Date:   
+
+Date of Birth:               Sex:
+
+Service: 
+
+Allergies:
+
+Attending:
+
+Chief Complaint:
+
+Major Surgical or Invasive Procedure:
+
+History of Present Illness:
+
+chest x-ray is negative for infiltration.
+infection is ruled out.
+the patient did not exhibit the sign of infection.
+infection not seen.
+there is no significant congestive heart failure.
+the patient is free of malignancy.
+the examination cannot see the tumor.
+renal malignancy was ruled out.
+
+Discharge Medications:

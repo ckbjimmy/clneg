@@ -37,16 +37,6 @@ def ctakes_concept_extraction(data_dir, ctakes_folder):
 	os.system('rm ' + ctakes_folder + 'note_input/tmp')
 	os.system('mv ' + ctakes_folder + 'note_output/tmp.xml '+ data_dir)
 
-	# #subprocess.check_output(['bash', '-c', 'find . -name "' + data_dir + 'tmp" -exec cp {} ' + ctakes_folder + 'note_input/ \;'])
-	# subprocess.Popen('find . -name ".DS_Store" -type f -delete -print', stdout=subprocess.PIPE, shell=True)
-	# subprocess.Popen('cp ' + data_dir + 'tmp ' + ctakes_folder + 'note_input/', stdout=subprocess.PIPE, shell=True)
-	# p = subprocess.Popen("sh " + ctakes_folder + "bin/pipeline.sh", stdout=subprocess.PIPE, shell=True)
-	# (output, err) = p.communicate()
-	# subprocess.check_output(['bash', '-c', 'find . -name "' + ctakes_folder + 'note_output/tmp.xml" -exec cp {} ../data/ \;'])
-	# subprocess.Popen('rm ' + ctakes_folder + 'note_input/tmp', stdout=subprocess.PIPE, shell=True)
-	# subprocess.Popen('mv ' + ctakes_folder + 'note_output/tmp.xml '+ data_dir, stdout=subprocess.PIPE, shell=True)
-
-
 	# keep: 047, 046, 033, 184, 061, 048, 131
 	# discard: 029, 034, 197, 121, 023, 059, 060, 195, 109, 022, 122, 
 

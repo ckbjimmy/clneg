@@ -1,6 +1,6 @@
 import re
 import csv
-
+import sys
 
 def sortRules (ruleList):
     """Return sorted list of rules.
@@ -224,7 +224,7 @@ class negTagger(object):
 def main():
     rfile = open(r'../data/neg_list_negex.txt')
     irules = sortRules(rfile.readlines())
-    reports = csv.reader(open(r'../data/annotation_120_line.txt','rb'), delimiter = '\t')
+    reports = csv.reader(open(sys.argv[1],'rb'), delimiter = '\t')
     reports.next()
     reportNum = 0
     correctNum = 0

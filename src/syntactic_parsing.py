@@ -23,31 +23,26 @@ def synparse(data_dir, neg_list, openNLP):
 	            sl.append(s)
 
 	# remove before/after words!
-	neg_front = [i + ' ' for i in neg_list[neg_list['EN (SV) ACTION'] == 'forward']['ITEM'].tolist()]
-	neg_back = [' ' + i for i in neg_list[neg_list['EN (SV) ACTION'] == 'backward']['ITEM'].tolist()]
-
 	ll = []
-	for sent in l:
-	    s1 = ''
-	    s2 = ''
-	    for nw in neg_front:
-	        try:
-	            s1 = sent[sent.index(nw):]
-	            break
-	        except:
-	            continue
-	    for nw in neg_back:
-	        try:
-	            s2 = sent[:sent.index(nw)]
-	            break
-	        except:
-	            continue
-	    if s1 != '' and s2 == '':
-	        s = s1 + ' , ' + s2
-	        s = re.sub(' , $', '', s)
-	        ll.append(s)
-	    else:
-	        ll.append(sent)
+	for ss in l:
+	    s = ''
+	    flag = ''
+	    for nw in sorted(neg_list['ITEM'].tolist(), key=len, reverse=True):
+	        if nw in neg_list[neg_list['EN (SV) ACTION'] == 'forward']['ITEM'].tolist():
+	            try:
+	                s = ss[ss.index(nw):]
+	                flag = 'f'
+	                break
+	            except:
+	                continue
+	        else:
+	            try:
+	                s = ss[:(ss.index(nw)+len(nw))]
+	                flag = 'b'
+	                break
+	            except:
+	                continue
+	    ll.append(s)
 	    
 	tree_list = []
 	while len(sl) != len(tree_list): # run until opennlp can parse with correct number of sentences. bug???
