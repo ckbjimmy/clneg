@@ -28,14 +28,19 @@ However, you still need to request the access to UMLS by yourself to ensure that
 1. Request the UMLS access (this step will require few days for NIH/NLM to inspect your access application)
 2. Run `sh setup.sh` in the first time
 3. Add your UMLS account/password to `./src/ctakes/bin/pipeline.sh` after `-Dctakes.umlsuser=` and `-Dctakes.umlspw=`
-4. Run `sh run_corenlp.sh` and `sh run_opennlp.sh` to initialize Stanford CoreNLP server and Apache OpenNLP server
+4. Run `sh run_corenlp.sh` and `sh run_opennlp.sh` to initialize Stanford CoreNLP server and Apache OpenNLP server (make sure they are running in the background at port 9000 and 8080, respectively)
 5. Open the other terminal and run `python main.py [file_path]`
 
 - `../data/dev.txt` for development set
 - `../data/test_ready.txt` for evaluation set
 - `../data/1.txt` for testing note (as well as `2.txt`, `3.txt`) (The notes are no longer be available here. Please request the DUA of MIMIC-III database for using the notes)
 
-6. Baseline can be obatined by running `negex.py`
-7. Please check the terminal screen for sentence parsing, and check the `../data/final_output`
+6. We modularized some mutable components into files
 
-- For the process of development, please check the jupyter notebook `nlp_dev.ipynb`
+- To design and add more rules for Tregex/Tsurgeon, please edit `tree_rules.py`
+- To add more negation terms, please edit `./data/neg_list_complete.txt`, which is the modified version of the original `multilingual_lexicon-en-de-fr-sv.csv` open sources with our annotations
+- To change the clinical semantic types for filtering, please edit `concept_extraction.py`
+
+7. Baseline can be obatined by running `negex.py`
+8. Please check the terminal screen for sentence parsing, and check the `./data/final_output`
+9. For the process of development, please check the jupyter notebook `nlp_dev.ipynb` under `src` folder
