@@ -23,6 +23,7 @@ However, you still need to request the access to UMLS by yourself to ensure that
 
 - [Access to NLM UMLS Metathesaurus/Ontology](https://www.nlm.nih.gov/databases/umls.html)
 
+- The complete implementation with all dependencies configured is also available at `https://www.dropbox.com/s/zw0uod64nt5wsf0/clneg.zip?dl=0` (without UMLS account and password).
 
 ## Instruction
 1. Request the UMLS access (this step will require few days for NIH/NLM to inspect your access application)
