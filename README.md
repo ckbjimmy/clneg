@@ -1,5 +1,11 @@
 # Clinical Text Summarization Tool with Syntax-based Negation and Semantic Concept Identification
 
+* Edited by Wei-Hung Weng (MIT CSAIL)
+* Please contact the author with errors found.
+* ckbjimmy {AT} mit {DOT} edu
+
+This repository contains the codes for the method presented in the paper [Clinical Text Summarization with Syntax-Based Negation and Semantic Concept Identification](https://arxiv.org/abs/2003.00353)
+
 ## Introduction
 we utilized the power of computational linguistics with human experts-curated knowledge base for identifying clinical concepts with their corresponding negation information in the clinical narrative texts.
 
