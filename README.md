@@ -51,3 +51,14 @@ However, you still need to request the access to UMLS by yourself to ensure that
 7. Baseline can be obatined by running `negex.py`
 8. Please check the terminal screen for sentence parsing, and check the `./data/final_output`
 9. For the process of development, please check the jupyter notebook `nlp_dev.ipynb` under `src` folder
+
+If you use this code, please kindly cite the paper for this GitHub project (see below for BibTex):
+
+```
+@article{weng2020clinical,
+  title={Clinical Text Summarization with Syntax-Based Negation and Semantic Concept Identification},
+  author={Weng, Wei-Hung and Chung, Yu-An and Schrasing Tong},
+  journal={arXiv preprint arXiv:2003.00353},
+  year={2020}
+}
+```
